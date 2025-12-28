@@ -1,0 +1,102 @@
+name: Proposal
+description: Suggest new content, structure changes, or improvements
+title: "[Proposal]: "
+labels: ["proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Propose New Content or Changes
+        
+        Use this template to suggest:
+        - New content for existing axes
+        - Structural improvements
+        - New methodologies or frameworks
+        - Enhancements to existing work
+        
+        **Read first**: `/CONTRIBUTING.md` and `/00_MANIFEST/SCOPE.md`
+
+  - type: dropdown
+    id: proposal_type
+    attributes:
+      label: Type of Proposal
+      options:
+        - New content (fits existing axis)
+        - New axis or major section
+        - Structural change
+        - Methodology improvement
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: axis
+    attributes:
+      label: Related Axis
+      description: Which axis does this relate to (if applicable)?
+      placeholder: "e.g., Millennium Problems, Engineering, Sustainability"
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Proposal Summary
+      description: What are you proposing? (2-3 sentences)
+      placeholder: "I propose adding a detailed analysis of the Hodge Conjecture to the millennium/ directory, including connections to algebraic geometry and topology."
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why is this valuable? How does it align with Lunar Hive scope and principles?
+      placeholder: |
+        This adds value because:
+        - Fills gap in Millennium Problems coverage
+        - Connects to existing zero_over_zero work on boundaries
+        - High-quality sources available
+        - Aligns with rigorous mathematical analysis focus
+    validations:
+      required: true
+
+  - type: textarea
+    id: outline
+    attributes:
+      label: Outline or Content Plan
+      description: Brief outline of what would be included
+      placeholder: |
+        Proposed structure:
+        - overview.md: Statement, history, significance
+        - formal_notes.md: Technical details (cohomology, algebraic cycles)
+        - connections.md: Links to Riemann Hypothesis, topology
+        - references.md: Key papers and resources
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Key Sources
+      description: What sources/evidence will you use? List 3-5 key references.
+      placeholder: |
+        - Deligne, P. (1974). "La conjecture de Weil, I"
+        - Voisin, C. (2002). "Hodge Theory and Complex Algebraic Geometry"
+        - Clay Mathematics Institute problem statement
+
+  - type: checkboxes
+    id: alignment
+    attributes:
+      label: Alignment Check
+      options:
+        - label: I have read `/00_MANIFEST/SCOPE.md` and this fits within scope
+          required: true
+        - label: I have read `/CONTRIBUTING.md`
+          required: true
+        - label: This aligns with Lunar Hive principles (rigor, clarity, evidence)
+          required: true
+        - label: I can provide proper citations and sources
+          required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other information that helps evaluate this proposal

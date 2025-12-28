@@ -1,0 +1,108 @@
+name: Research Question
+description: Ask a question or explore a research direction
+title: "[Research]: "
+labels: ["research question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Research Question
+        
+        Use this template to:
+        - Ask questions about content
+        - Explore research directions
+        - Request clarification on complex topics
+        - Propose areas for investigation
+        
+        **For general discussion**: Use Discussions instead
+
+  - type: dropdown
+    id: axis
+    attributes:
+      label: Related Axis
+      options:
+        - Millennium Problems
+        - Zero Over Zero
+        - Harappan
+        - Engineering
+        - Sustainability
+        - Olympics
+        - Cross-axis / Multiple
+        - Epistemology / Meta
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Research Question
+      description: What are you asking or exploring? Be specific.
+      placeholder: "How does the collapse behavior at 0/0 relate to phase transitions in Navier-Stokes equations?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What prompted this question? What have you already explored?
+      placeholder: |
+        I've been reading about indeterminate forms in /zero_over_zero/ and noticed references to Navier-Stokes in /millennium/. Both involve "collapse" or breakdown of smooth behavior. Is there a formal connection?
+        
+        I've checked:
+        - /docs/axes/ZERO_OVER_ZERO.md
+        - /docs/axes/MILLENNIUM_PROBLEMS.md
+        
+        But didn't find explicit analysis of this connection.
+
+  - type: textarea
+    id: existing_knowledge
+    attributes:
+      label: What's Already Known
+      description: Summarize what the archive currently says (if anything) about this topic
+      placeholder: "The archive mentions that Navier-Stokes involves questions about smoothness and that 0/0 represents collapse, but doesn't explicitly connect them mathematically."
+
+  - type: textarea
+    id: approach
+    attributes:
+      label: Possible Approach
+      description: If you have ideas about how to investigate this, share them
+      placeholder: |
+        Possible approach:
+        - Review singularity analysis in fluid dynamics
+        - Compare to limit behavior in calculus
+        - Look for literature connecting PDEs to indeterminate forms
+        - Check if "blow-up" in Navier-Stokes relates to arithmetic collapse
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Relevant Sources
+      description: Any papers, books, or resources that might be relevant?
+      placeholder: |
+        - Fefferman, C. "Navier-Stokes Equation" (Clay Institute)
+        - Rudin, W. "Principles of Mathematical Analysis" (limit theory)
+
+  - type: dropdown
+    id: intent
+    attributes:
+      label: Your Intent
+      description: What do you hope to do with the answer?
+      options:
+        - Just curious / learning
+        - May contribute content if interesting
+        - Requesting research be added to archive
+        - Seeking collaboration
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing content and discussions
+          required: true
+        - label: This is a substantive research question (not general curiosity better suited for Discussions)
+          required: true

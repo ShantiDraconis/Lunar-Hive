@@ -1,0 +1,71 @@
+name: Bug Report
+description: Report an error, broken link, or formatting issue
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Report a Bug
+        
+        Use this template to report:
+        - Factual errors with evidence
+        - Broken links
+        - Formatting problems
+        - Technical issues
+        
+        **Not for**: Disagreements, feature requests, or research questions (use other templates)
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Which file(s) or section?
+      placeholder: "e.g., /docs/axes/HARAPPAN.md, line 42"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: bug_type
+    attributes:
+      label: Type of Bug
+      options:
+        - Factual error
+        - Broken link
+        - Formatting issue
+        - Typo or grammar
+        - Missing citation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What's wrong? Be specific.
+      placeholder: "The link to [source] returns 404. The correct link is [...]"
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / Correction
+      description: If claiming a factual error, provide evidence. If suggesting a fix, provide it here.
+      placeholder: |
+        **Current**: "The Harappan civilization ended in 1500 BCE"
+        **Should be**: "The Harappan civilization ended around 1300 BCE"
+        **Source**: [Kenoyer, Ancient Cities, 1998, p. 174]
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing issues to avoid duplicates
+          required: true
+        - label: I have identified the specific location of the bug
+          required: true
+        - label: I have provided evidence for factual claims
+          required: false

@@ -1,0 +1,29 @@
+name: Link Check
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+  schedule:
+    # Run weekly on Sundays at 00:00 UTC
+    - cron: '0 0 * * 0'
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress --exclude-all-private '**/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
