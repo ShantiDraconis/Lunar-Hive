@@ -1,0 +1,37 @@
+# Lunar Hive .gitignore
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Build artifacts (if any future automation is added)
+node_modules/
+.cache/
+dist/
+build/
+
+# Local environment files
+.env
+.env.local
+
+# Test coverage (if tests are added)
+coverage/
+.nyc_output/
+
+# Personal notes (not for public archive)
+NOTES.md
+TODO.md
+scratch/
