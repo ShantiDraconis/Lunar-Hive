@@ -8,7 +8,7 @@ scope: Lunar-Hive-Global
 
 # SEED_INIT: ARCHITECT_SOVEREIGNTY_LOG
 
-## 1. Repository Tree Structure (Arvore do Repositorio)
+## 1. Repository Tree Structure (Árvore do Repositório)
 
 ```
 /ROOT
