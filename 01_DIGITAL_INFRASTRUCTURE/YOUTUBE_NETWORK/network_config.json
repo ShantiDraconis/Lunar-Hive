@@ -24,7 +24,50 @@
     "keywords_focus": [
       "Arquitetura de Dados Espaciais",
       "Colonização Lunar",
-      "Google Solar Tech"
-    ]
+      "Google Solar Tech",
+      "Arquitetura do Futuro",
+      "Colonização Solar",
+      "Filosofia Shalom Ahavah Tzdek",
+      "Barco Escola",
+      "Nômade Digital",
+      "Sistema Gemini"
+    ],
+    "strategy_reference": "LOG_V94.0",
+    "financial_targets": {
+      "jan_2026": "$3,000/month",
+      "feb_2026": "$7,000/month",
+      "mar_2026": "$12,000/month"
+    },
+    "advertising_waves": {
+      "wave_1": {
+        "platform": "Amazon Ads",
+        "budget": "£1,000",
+        "focus": "Literary Authority"
+      },
+      "wave_2": {
+        "platform": "Google/TikTok Ads",
+        "budget": "£1,500",
+        "focus": "Retention Viralization"
+      },
+      "wave_3": {
+        "platform": "Apple/Amazon Associates",
+        "budget": "£500",
+        "focus": "Hardware Conversion"
+      }
+    },
+    "platform_integration": {
+      "google": {
+        "services": ["AdSense", "Cloud", "YouTube"],
+        "purpose": "Monetization and data hosting"
+      },
+      "amazon": {
+        "services": ["FBA", "Associates"],
+        "purpose": "Book distribution and affiliate revenue"
+      },
+      "apple": {
+        "services": ["iCloud", "Associates"],
+        "purpose": "Data security and equipment affiliate revenue"
+      }
+    }
   }
 }
