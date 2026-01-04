@@ -13,8 +13,8 @@
 
 Criar uma estratégia de postagem coordenada entre os 6 canais para:
 
-1. Maximizar a retenção de visualizações (objetivo: 70%+ watch time com viralização 12.8x)
-   - *Nota: "1.283,7%" no contexto original refere-se ao coeficiente viral de compartilhamento, não à taxa de retenção tradicional*
+1. Maximizar a retenção de visualizações (objetivo: 70%+ watch time) e viralização (12.8x coeficiente de compartilhamento)
+   - *Nota: O coeficiente viral de 12.8x mede o fator de compartilhamento/amplificação de conteúdo*
 2. Converter visualizações em inscritos qualificados
 3. Gerar tráfego para links Amazon (livros) e Apple (equipamentos)
 4. Atingir meta de receita de $3.000/mês até 31/01/2026
@@ -59,7 +59,7 @@ Criar uma estratégia de postagem coordenada entre os 6 canais para:
 ## CRONOGRAMA SEMANAL (SEMANA 2: 13-17/01/2026)
 
 ### Segunda-feira (13/01)
-- **NODE_ALPHA:** Short "Proof of Concept: Retenção 1283,7%"
+- **NODE_ALPHA:** Short "Proof of Concept: Viralização 12.8x"
 - **NODE_BETA_02:** Vídeo sobre "Google AdSense Strategy"
 - **NODE_BETA_03:** Short sobre "Arquitetura do Futuro"
 
