@@ -2,6 +2,8 @@
 
 This directory contains chronologically numbered log files that prove strategic continuity and intentional design rather than random activity.
 
+**Note**: Some logs contain future target dates as part of strategic planning. These represent intended activation points for protocol phases, not historical events. The log creation date and target dates are distinct by design.
+
 ## Purpose
 
 The log system serves to:

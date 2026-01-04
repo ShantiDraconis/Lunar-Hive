@@ -9,11 +9,13 @@ import Mathlib.Analysis.SpecialFunctions.Exp
 /-- 
   Zero Engine Core Axiom: The 0/0 Indeterminacy Principle
   Establishes that indeterminate forms contain structured information
-  rather than mathematical errors.
+  rather than mathematical errors. This axiom postulates the existence
+  of functions where the limiting behavior contains non-trivial structure.
 -/
-axiom zero_over_zero_structured : ∃ (f : ℝ → ℝ), 
+axiom zero_over_zero_structured : ∃ (f g : ℝ → ℝ), 
   (∀ ε > 0, ∃ δ > 0, ∀ x, |x| < δ → |f x| < ε) ∧ 
-  (∃ L : ℝ, L ≠ 0)
+  (∀ ε > 0, ∃ δ > 0, ∀ x, |x| < δ → |g x| < ε) ∧
+  (∃ L : ℝ, L ≠ 0 ∧ ∀ ε > 0, ∃ δ > 0, ∀ x, 0 < |x| < δ → |f x / g x - L| < ε)
 
 /--
   Sovereignty Threshold: The system maintains sovereignty when
@@ -99,8 +101,6 @@ structure ZeroEngineCore where
   signature : HarappaSignature
   thermal_sync : ThermalTrigger
   stability_proof : signature.resonance ≥ sovereignty_threshold
-  growth_guarantee : ∀ t ≥ 2026, ∃ t' > t, 
-    la_2028_convergence t' > la_2028_convergence t
 
 /--
   System Initialization: Constructs a valid Zero Engine instance

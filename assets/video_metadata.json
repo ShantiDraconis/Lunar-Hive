@@ -72,10 +72,11 @@
   },
 
   "verification_checksums": {
-    "sequence_1_sha256": "CALCULATED_POST_RENDER",
-    "sequence_2_sha256": "CALCULATED_POST_RENDER",
-    "sequence_3_sha256": "CALCULATED_POST_RENDER",
-    "full_video_sha256": "CALCULATED_POST_RENDER"
+    "note": "Checksums calculated post-render during video production",
+    "sequence_1_sha256": null,
+    "sequence_2_sha256": null,
+    "sequence_3_sha256": null,
+    "full_video_sha256": null
   },
 
   "authority_loop": {
