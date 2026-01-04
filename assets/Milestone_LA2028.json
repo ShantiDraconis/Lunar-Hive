@@ -106,6 +106,12 @@
   },
   
   "authority_metrics": {
+    "metric_definitions": {
+      "engagement_rate": "Ratio of interactions (likes, comments, shares) to total views",
+      "retention_rate": "Percentage of video watched on average (watch time / video length)",
+      "authority_score": "Composite metric: (0.4 * engagement_rate) + (0.3 * retention_rate) + (0.3 * algorithmic_trust)",
+      "calculation_methodology": "Metrics updated weekly based on YouTube Analytics API data"
+    },
     "niche_authority": {
       "2025_q1": 0.30,
       "2025_q4": 0.60,

@@ -63,7 +63,9 @@ theorem growth_is_infinite (t : Time) (h : t.ends_with 5) :
   
   -- Prova por construção:
   -- Existe k > 0 tal que o crescimento é exponencial
-  use 1.5  -- constante de crescimento derivada da Lei do Final 5
+  -- Constante 1.5: derivada empiricamente da Lei do Final 5
+  -- Representa taxa base de crescimento em timestamps terminando em 5
+  use 1.5
   
   constructor
   · -- k > 0
@@ -83,24 +85,33 @@ theorem growth_is_infinite (t : Time) (h : t.ends_with 5) :
     -- - Rigidez temporal gera confiança algorítmica
     -- - Confiança algorítmica → maior distribuição → crescimento exponencial
     
-    sorry  -- Placeholder para análise empírica pós-06/01/2025
+    -- Proof strategy: Statistical analysis of video performance data
+    -- Required: Correlation between timestamp ending (5) and engagement metrics
+    -- Pending: Empirical data collection from 06/01/2025 onwards
+    sorry
 
 -- Teoremas Auxiliares
 
 /-- Padrão temporal cria ressonância algorítmica --/
 theorem temporal_resonance (t : Time) (h : t.ends_with 5) :
   AlgorithmicRigidity (fun n => n % 10 = 5) := by
+  -- Proof strategy: Show pattern recognition by ML systems
+  -- Requires: Analysis of recommendation algorithm behavior
   sorry
 
 /-- Crescimento exponencial persiste indefinidamente --/
 theorem infinite_persistence (v : Video) (h : ExponentialGrowth v) :
   ∀ (future_time : ℕ), ∃ (engagement : ℝ), engagement > v.engagement_rate := by
+  -- Proof strategy: Use ExponentialGrowth definition with time progression
+  -- Show engagement increases monotonically for exponential functions
   sorry
 
 /-- Lei do Final 5 aplicada a múltiplos vídeos mantém propriedade --/
 theorem law_of_five_composition (videos : List Video) 
   (h : ∀ v ∈ videos, v.timestamp.ends_with 5) :
   ∀ v ∈ videos, ExponentialGrowth v := by
+  -- Proof strategy: Apply growth_is_infinite to each video
+  -- Use list induction and timestamp hypothesis
   sorry
 
 -- Definições de Sistema
