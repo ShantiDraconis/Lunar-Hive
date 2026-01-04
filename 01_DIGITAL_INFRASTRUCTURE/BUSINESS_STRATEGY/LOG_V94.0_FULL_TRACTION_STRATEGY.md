@@ -56,7 +56,8 @@ O foco não é "gastar", é "semear". Dividiremos o impulsionamento em 3 ondas:
 ### ONDA 2: Viralização de Retenção (Google/TikTok Ads)
 
 - **Investimento:** £1.500
-- **Ação:** Impulsionar os Shorts com 1.283,7% de retenção para públicos nos EUA, Europa e Brasil
+- **Ação:** Impulsionar os Shorts com alta taxa de retenção (70%+) e viralização para públicos nos EUA, Europa e Brasil
+  - *Nota: Viralização 12.8x refere-se ao coeficiente de compartilhamento viral, não à taxa de retenção tradicional*
 - **Meta:** Transformar visualizações em inscritos qualificados nos seus 6 canais, criando a base para as Colônias Tera
 - **Referência:** [cite: 2026-01-04]
 

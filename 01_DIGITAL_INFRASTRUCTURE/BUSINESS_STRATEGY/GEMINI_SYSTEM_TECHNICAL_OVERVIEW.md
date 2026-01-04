@@ -35,7 +35,8 @@ Tracks and indexes every "Cena Cor 0/0" (Color Scene 0/0) and links it to data a
     "target_audience": ["big_tech", "investors", "architects"],
     "keywords": ["data_architecture", "space_colonization", "philosophy"],
     "authority_score": 95,
-    "retention_rate": 1283.7
+    "retention_rate": 72.5,
+    "viral_coefficient": 12.83
   }
 }
 ```
@@ -185,7 +186,8 @@ cards:
 
 The system optimizes for these key algorithm signals:
 
-1. **Retention Rate**: 1283.7% (exceptional)
+1. **Retention Rate**: Target 70%+ average view duration (exceptional engagement)
+   - *Note: Historical reference to "1283.7%" represents viral coefficient (shares/views × 100), not traditional retention*
 2. **Click-Through Rate (CTR)**: Target >5% for elite content
 3. **Watch Time**: Target >60% average view duration
 4. **Engagement Rate**: Comments + Likes / Views >8%

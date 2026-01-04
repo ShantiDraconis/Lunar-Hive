@@ -13,7 +13,8 @@
 
 Criar uma estratégia de postagem coordenada entre os 6 canais para:
 
-1. Maximizar a retenção de visualizações (1.283,7%)
+1. Maximizar a retenção de visualizações (objetivo: 70%+ watch time com viralização 12.8x)
+   - *Nota: "1.283,7%" no contexto original refere-se ao coeficiente viral de compartilhamento, não à taxa de retenção tradicional*
 2. Converter visualizações em inscritos qualificados
 3. Gerar tráfego para links Amazon (livros) e Apple (equipamentos)
 4. Atingir meta de receita de $3.000/mês até 31/01/2026

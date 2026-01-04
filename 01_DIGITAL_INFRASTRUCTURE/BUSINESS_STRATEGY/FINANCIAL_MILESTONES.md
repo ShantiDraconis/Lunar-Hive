@@ -29,7 +29,7 @@
 #### Revenue Breakdown:
 - **AdSense Revenue**: $1,200/month
   - YouTube ad revenue from 6 channels
-  - Based on high retention content (1.283,7%)
+  - Based on high retention content (70%+ watch time with strong viral sharing)
   
 - **Amazon Associates**: $1,200/month
   - Book sales (500 units @ average $2.40 commission)
