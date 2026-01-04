@@ -27,6 +27,9 @@ How to test claims about the script. What would prove/disprove each hypothesis?
 **`open_questions.md`** (planned)  
 Unresolved issues in decipherment
 
+**`MANIFESTO_HARAPPA.md`**  
+Archive of the “Engenharia do Sim” posting block (verbatim, not endorsed)
+
 ---
 
 ## Current Theories
