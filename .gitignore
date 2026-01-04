@@ -37,3 +37,8 @@ coverage/
 NOTES.md
 TODO.md
 scratch/
+
+# LOG_V97.0 Financial data files (private)
+**/financial_data.json
+**/allocation_data.json
+**/retention_data.json
