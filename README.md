@@ -2,6 +2,8 @@
 
 **Canonical repository and public archive of the Ecletic S system**
 
+🎥 **YouTube Channel**: [@ecletic_s](https://youtube.com/@ecletic_s)
+
 ---
 
 ## What Is This?
