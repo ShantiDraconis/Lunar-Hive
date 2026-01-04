@@ -86,9 +86,8 @@ lunar-hive/
 
 ### Discussing
 
-- Use
-  [GitHub Discussions](https://github.com/ShantiDraconis/Lunar-Hive/discussions)
-  for questions and ideas
+- Use [GitHub Issues](https://github.com/ShantiDraconis/Lunar-Hive/issues)
+  (proposal template) for questions and ideas
 - Follow [`DISCUSSIONS_GUIDE.md`](DISCUSSIONS_GUIDE.md)
 - Keep it focused and respectful
 
@@ -168,8 +167,8 @@ lunar-hive/
 - **Lost?** → Read [`docs/START_HERE.md`](docs/START_HERE.md)
 - **Confused by terms?** → Check
   [`00_MANIFEST/DEFINITIONS.md`](00_MANIFEST/DEFINITIONS.md)
-- **Want to discuss?** → Use
-  [Discussions](https://github.com/ShantiDraconis/Lunar-Hive/discussions)
+- **Want to discuss?** → Open an issue using the proposal template on
+  [GitHub Issues](https://github.com/ShantiDraconis/Lunar-Hive/issues)
 - **Found an error?** → Open an issue
 - **Want to contribute?** → Read [`CONTRIBUTING.md`](CONTRIBUTING.md)
 
