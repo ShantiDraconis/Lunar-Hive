@@ -1,0 +1,70 @@
+{
+  "scene_configuration": {
+    "version": "v51.0",
+    "framework": "harappa_sovereignty",
+    "date": "2026-01-04",
+    "description": "Visual engineering parameters for 0/0 scene rendering"
+  },
+  "color_palette": {
+    "primary": {
+      "hex": "#000000",
+      "rgb": [0, 0, 0],
+      "name": "Zero Black",
+      "significance": "Origin point of indeterminate forms"
+    },
+    "secondary": {
+      "hex": "#FFFFFF",
+      "rgb": [255, 255, 255],
+      "name": "Unity White",
+      "significance": "Limit convergence point"
+    },
+    "accent": {
+      "hex": "#FFD700",
+      "rgb": [255, 215, 0],
+      "name": "Solar Gold",
+      "significance": "Exponential growth marker"
+    },
+    "mathematical": {
+      "hex": "#4169E1",
+      "rgb": [65, 105, 225],
+      "name": "Proof Blue",
+      "significance": "Formal verification color"
+    }
+  },
+  "scene_parameters": {
+    "resolution": {
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": "16:9"
+    },
+    "lighting": {
+      "ambient": 0.3,
+      "directional": 0.7,
+      "color_temperature": 5500,
+      "description": "Natural daylight simulation for clarity"
+    },
+    "camera": {
+      "fov": 60,
+      "position": [0, 0, 10],
+      "target": [0, 0, 0],
+      "description": "Observer position for mathematical visualization"
+    }
+  },
+  "thermal_trigger": {
+    "activation_time": "04:17",
+    "threshold": 417,
+    "significance": "Exponential growth initiation point",
+    "color_shift": {
+      "from": "#4169E1",
+      "to": "#FFD700",
+      "duration_seconds": 5
+    }
+  },
+  "metadata": {
+    "creator": "Lunar Hive Architecture System",
+    "purpose": "YouTube/Google AI visual parameter identification",
+    "technical_basis": "Engineering visual standards, not random filters",
+    "export_format": "JSON",
+    "compatibility": ["Blender", "Unity", "Unreal Engine", "Three.js"]
+  }
+}
