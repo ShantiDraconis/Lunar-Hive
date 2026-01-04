@@ -13,13 +13,43 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 try:
     from financial_flow_tracker import FinancialFlowTracker
+except ImportError:
+    print("⚠️  Error: Could not import financial_flow_tracker module")
+    print("    Ensure financial_flow_tracker.py is in the same directory")
+    FinancialFlowTracker = None
+
+try:
     from metadata_converter import MetadataConverter
+except ImportError:
+    print("⚠️  Error: Could not import metadata_converter module")
+    print("    Ensure metadata_converter.py is in the same directory")
+    MetadataConverter = None
+
+try:
     from retention_analyzer import RetentionAnalyzer
+except ImportError:
+    print("⚠️  Error: Could not import retention_analyzer module")
+    print("    Ensure retention_analyzer.py is in the same directory")
+    RetentionAnalyzer = None
+
+try:
     from revenue_allocator import RevenueAllocator
+except ImportError:
+    print("⚠️  Error: Could not import revenue_allocator module")
+    print("    Ensure revenue_allocator.py is in the same directory")
+    RevenueAllocator = None
+
+try:
     import seo_optimizer
-except ImportError as e:
-    print(f"⚠️  Warning: Could not import all components: {e}")
-    print("Some features may be limited.")
+except ImportError:
+    print("⚠️  Error: Could not import seo_optimizer module")
+    print("    Ensure seo_optimizer.py is in the same directory")
+    seo_optimizer = None
+
+# Check if all required modules loaded
+if not all([FinancialFlowTracker, MetadataConverter, RetentionAnalyzer, RevenueAllocator]):
+    print("\n⚠️  Warning: Some components failed to load")
+    print("    The system will run with limited functionality")
 
 
 class LOG_V97_Controller:

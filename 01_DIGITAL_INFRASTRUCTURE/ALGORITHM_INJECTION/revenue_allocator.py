@@ -38,6 +38,9 @@ class RevenueAllocator:
     - 20% Fundo Tera (Tera Fund for Hostels/Theaters)
     """
     
+    # Tolerance for percentage validation (e.g., 0.299 + 0.500 + 0.201 = 1.00)
+    PERCENTAGE_TOLERANCE = 0.01
+    
     # Default allocation rules per LOG_V97.0
     DEFAULT_RULES = [
         AllocationRule(
@@ -180,7 +183,7 @@ class RevenueAllocator:
             ValueError: If percentages don't sum to 1.0
         """
         total_pct = capital_giro_pct + fundo_naval_pct + fundo_tera_pct
-        if abs(total_pct - 1.0) > 0.01:
+        if abs(total_pct - 1.0) > self.PERCENTAGE_TOLERANCE:
             raise ValueError(f"Percentages must sum to 1.0, got {total_pct}")
         
         allocation = Allocation(

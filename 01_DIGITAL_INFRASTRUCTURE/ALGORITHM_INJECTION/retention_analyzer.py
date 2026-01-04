@@ -38,6 +38,9 @@ class RetentionAnalyzer:
     Identifies optimal moments for CTA insertion based on attention peaks.
     """
     
+    # Target optimization multiplier: 1283.7% improvement = 12.837x
+    TARGET_OPTIMIZATION_MULTIPLIER = 12.837
+    
     # CTA templates optimized for different platforms
     CTA_TEMPLATES = {
         "book_amazon": [
@@ -179,9 +182,10 @@ class RetentionAnalyzer:
         
         # Calculate optimization score (potential improvement)
         if avg_retention > 0:
-            optimization_score = (1.0 - avg_retention) * 12.837  # Target: 1283.7%
+            # Target: 1283.7% optimization (12.837x multiplier)
+            optimization_score = (1.0 - avg_retention) * self.TARGET_OPTIMIZATION_MULTIPLIER
         else:
-            optimization_score = 12.837
+            optimization_score = self.TARGET_OPTIMIZATION_MULTIPLIER
         
         # Generate recommended CTAs
         recommended_ctas = self._generate_cta_recommendations(attention_nodes)

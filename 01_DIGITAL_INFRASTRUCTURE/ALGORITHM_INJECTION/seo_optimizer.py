@@ -27,20 +27,20 @@ MONETIZATION_KEYWORDS = [
 # ᚠᚢᚦᛁ 𐏃𐎼𐎱𐎠 — injeta ressonância semântica
 # コメント: 保持 frequência ética; nenhuma chave é gravada aqui.
 
-def enrich_title(title: str, extra: Optional[List[str]] = None, use_monetization: bool = False) -> str:
+def enrich_title(title: str, extra: Optional[List[str]] = None, enable_monetization_mode: bool = False) -> str:
     """
     Append curated keywords while preserving brevity.
     
     Args:
         title: Base title
         extra: Additional keywords to include
-        use_monetization: Use LOG_V97.0 monetization keywords
+        enable_monetization_mode: Use LOG_V97.0 monetization keywords instead of base keywords
     
     Returns:
         Enhanced title with keywords
     """
     extras = extra or []
-    base_keywords = MONETIZATION_KEYWORDS if use_monetization else KEYWORDS
+    base_keywords = MONETIZATION_KEYWORDS if enable_monetization_mode else KEYWORDS
     bundle = base_keywords + extras
     suffix = " | ".join(bundle[:3])
     return f"{title} — {suffix}" if suffix else title
@@ -90,11 +90,11 @@ if __name__ == "__main__":
         sys.exit(1)
     
     base_title = sys.argv[1]
-    use_monetization = "--monetization" in sys.argv
+    enable_monetization_mode = "--monetization" in sys.argv
     include_cta = "--cta" in sys.argv
     
     print("\n=== TÍTULO OTIMIZADO ===")
-    print(enrich_title(base_title, use_monetization=use_monetization))
+    print(enrich_title(base_title, enable_monetization_mode=enable_monetization_mode))
     
     print("\n=== DESCRIÇÃO OTIMIZADA ===")
     print(build_description("Sample description", depth=3, include_cta=include_cta))

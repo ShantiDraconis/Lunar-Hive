@@ -24,6 +24,9 @@ class MetadataConverter:
     into high-value keywords for advertising auctions.
     """
     
+    # Maximum number of platform-specific modifiers to add per keyword
+    MAX_MODIFIERS_PER_KEYWORD = 2
+    
     # Core concepts from Lunar Hive architecture
     CORE_CONCEPTS = {
         "I = 0/0": {
@@ -150,7 +153,7 @@ class MetadataConverter:
             for keyword in asset.keywords:
                 keywords.append(keyword)
                 # Add platform-specific variations
-                for modifier in modifiers[:2]:  # Limit modifiers
+                for modifier in modifiers[:self.MAX_MODIFIERS_PER_KEYWORD]:
                     keywords.append(f"{keyword} {modifier}")
         
         # Return top N unique keywords
