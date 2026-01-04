@@ -1,19 +1,24 @@
 # 🐝 Lunar Hive
 
-**Canonical repository and public archive of the Ecletic S system**
+## Canonical repository and public archive of the Eclectic S system
 
 ---
 
 ## What Is This?
 
-The Lunar Hive is a **rigorous, curated public archive** for research and documentation across:
+The Lunar Hive is a **rigorous, curated public archive** for research and
+documentation across:
 
-- **Mathematics & Logic** — Millennium Problems, zero over zero, limits and collapse
+- **Mathematics & Logic** — Millennium Problems, zero over zero, limits and
+  collapse
 - **Language & Symbolism** — Harappan script research, symbol systems
-- **Engineering & Systems** — Architecture, prototyping, risk, sustainability integration
+- **Engineering & Systems** — Architecture, prototyping, risk, sustainability
+  integration
 - **Sustainability** — Closed-loop models, resource accounting, human rights
-- **Cultural Systems** — Olympics as ritual, cohesion mechanism, production challenge
-- **Epistemology** — How we know what we know, evidence standards, falsifiability
+- **Cultural Systems** — Olympics as ritual, cohesion mechanism, production
+  challenge
+- **Epistemology** — How we know what we know, evidence standards,
+  falsifiability
 
 This is not a course. This is not a forum. This is not marketing.
 
@@ -23,8 +28,10 @@ This is not a course. This is not a forum. This is not marketing.
 
 ## New Here? Start with These
 
-1. **[START_HERE.md](docs/START_HERE.md)** — Complete orientation for new visitors
-2. **[00_MANIFEST/](00_MANIFEST/)** — Core principles, scope, definitions, epistemology
+1. **[START_HERE.md](docs/START_HERE.md)** — Complete orientation for new
+   visitors
+2. **[00_MANIFEST/](00_MANIFEST/)** — Core principles, scope, definitions,
+   epistemology
 3. **[TAXONOMY.md](docs/TAXONOMY.md)** — Map of how everything is organized
 4. **[Axes Overview](docs/axes/)** — Entry points to major domains
 
@@ -34,7 +41,7 @@ This is not a course. This is not a forum. This is not marketing.
 
 ## Repository Structure
 
-```
+```text
 lunar-hive/
 ├── 00_MANIFEST/          # Immutable conceptual core
 │   ├── README.md         # Canonical declaration
@@ -71,23 +78,28 @@ lunar-hive/
 ## How to Interact
 
 ### Reading
+
 - Everything is open and free
 - No account needed
 - Link and reference as you wish
 - Attribution appreciated
 
 ### Discussing
-- Use [GitHub Discussions](../../discussions) for questions and ideas
+
+- Use [GitHub Issues](https://github.com/ShantiDraconis/Lunar-Hive/issues)
+  (proposal template) for questions and ideas
 - Follow [`DISCUSSIONS_GUIDE.md`](DISCUSSIONS_GUIDE.md)
 - Keep it focused and respectful
 
 ### Contributing
+
 - Read [`CONTRIBUTING.md`](CONTRIBUTING.md) first
 - Small fixes welcome via pull requests
 - Proposals via issues or discussions
 - All contributions are curated (see [`GOVERNANCE.md`](GOVERNANCE.md))
 
 ### Reporting Issues
+
 - Bugs → Use bug report template
 - Proposals → Use proposal template
 - Research questions → Use research template
@@ -125,13 +137,15 @@ lunar-hive/
 - **Curated, not democratic**: Maintainers decide what gets included
 - **Transparent**: Decisions are documented publicly
 - **Quality-focused**: Rigor over popularity
-- **Explicit standards**: See [`GOVERNANCE.md`](GOVERNANCE.md) and [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
+- **Explicit standards**: See [`GOVERNANCE.md`](GOVERNANCE.md) and
+  [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
 
 ---
 
 ## Current Status (2025)
 
 ### Established
+
 ✅ Complete canonical structure  
 ✅ All governance documents  
 ✅ Documentation and navigation system  
@@ -139,6 +153,7 @@ lunar-hive/
 ✅ Six major axes defined  
 
 ### In Development
+
 🔨 Content expansion across axes  
 🔨 Cross-axis integration  
 🔨 Community contributions  
@@ -150,8 +165,10 @@ lunar-hive/
 ## Questions?
 
 - **Lost?** → Read [`docs/START_HERE.md`](docs/START_HERE.md)
-- **Confused by terms?** → Check [`00_MANIFEST/DEFINITIONS.md`](00_MANIFEST/DEFINITIONS.md)
-- **Want to discuss?** → Use [Discussions](../../discussions)
+- **Confused by terms?** → Check
+  [`00_MANIFEST/DEFINITIONS.md`](00_MANIFEST/DEFINITIONS.md)
+- **Want to discuss?** → Open an issue using the proposal template on
+  [GitHub Issues](https://github.com/ShantiDraconis/Lunar-Hive/issues)
 - **Found an error?** → Open an issue
 - **Want to contribute?** → Read [`CONTRIBUTING.md`](CONTRIBUTING.md)
 
