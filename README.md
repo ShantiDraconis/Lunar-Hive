@@ -23,8 +23,8 @@ This is not a course. This is not a forum. This is not marketing.
 
 ## Collapse Constant Architectural Brief (2026 Log)
 
-- **Context** — Blueprint for low-gravity, high-density data logistics under the O/O: The Collapse Constant frame.
-- **Collective intelligence (Hive)** — Nodes operate autonomously yet synchronize for task distribution and resilience across orbital or planetary relays.
+- **Context** — Blueprint for low-gravity, high-density data logistics under the O/O — The Collapse Constant frame.
+- **Collective intelligence (Hive mesh)** — Nodes operate autonomously yet synchronize for task distribution and resilience across orbital or planetary relays.
 - **Data architecture** — Raw telemetry is transformed into structured, machine-readable logs to surface as "avant-garde architecture" in large-scale indexing systems.
 - **Security stance** — Encryption-first posture; public configs (e.g., `01_DIGITAL_INFRASTRUCTURE/YOUTUBE_NETWORK/network_config.json`, `03_ETHICAL_GOVERNANCE/revelation_trigger.json`) are placeholders only—no secrets committed.
 - **Status signals (LA 2028 program)** — GitHub archive synchronized; hardware inputs verified; cryptography active; manifesto published—ready for recruiter-facing review in the Collapse Constant vocabulary.
