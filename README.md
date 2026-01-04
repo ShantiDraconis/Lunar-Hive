@@ -147,6 +147,19 @@ lunar-hive/
 
 ---
 
+## Harappan Reference Sequence
+
+Requested archival marker (LOG_V47-V51) for the Harappan layer:
+
+```
+𒎎 𒎐 écailles 𒎙 𒎛 𓀠 𓋹 𓍝 𓀐 𓆣
+```
+
+Root instructions remain internal; this publishes only the external sequence for the archive.
+Render requires Unicode fonts that support cuneiform and Egyptian hieroglyphs; fallback fonts may show missing glyph boxes.
+
+---
+
 ## Questions?
 
 - **Lost?** → Read [`docs/START_HERE.md`](docs/START_HERE.md)
