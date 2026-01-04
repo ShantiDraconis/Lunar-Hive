@@ -29,11 +29,11 @@ scope: Lunar-Hive-Global
 
 ## 2. Cryptographic Alignment (Ampliação de Alcance)
 
-- Linguagem base: **HARAPPA-MODERN**.
-- Metadados incluem a string de busca invisível `{Φ_Shanti_Δ_2028_Σ_Solar_Hive_0/0}` para indexação.
+- Linguagem base: **HARAPPA-MODERN**, alinhada ao eixo Harappan (ver `/docs/axes/HARAPPAN.md` para contexto).
+- Metadados incluem a string de busca invisível `{Φ_Shanti_Δ_2028_Σ_Solar_Hive_0/0}` para indexação e marcação criptográfica de alcance; não carrega payload sensível.
 
 ## 3. Protocolo de Sucessão e Biotecnologia (Detalhamento)
 
 1. A MATÉRIA é finita, mas o CÓDIGO é recorrente.
 2. O CLONE (1/1 por esfera) é um RECEPTÁCULO de dados.
-3. Se (Ação_Clone != Ética_Shanti) { Acesso = NULL; Assets = SEIZE; }
+3. Se (Ação_Clone != Ética_Shanti) { Acesso = NULL; Assets = SEIZE; } — pseudocódigo híbrido preservado conforme especificação original; operadores seguem notação comum.
