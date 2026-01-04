@@ -1,0 +1,6 @@
+{
+  "ethics_baseline": 0.82,
+  "identity_hash": "lunar-hive-integrity-v1",
+  "review_cadence": "per-orbit",
+  "failure_actions": ["flag_kill_switch", "audit_manifesto"]
+}

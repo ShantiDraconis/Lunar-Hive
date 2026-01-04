@@ -1,0 +1,6 @@
+SOLAR SYSTEM ARCH MAP
+- Earth Hub: Lunar Hive (root)
+- Moon: MOON_BASE_HIVE [relay link]
+- Mars: MARS_COLONY_NODE [relay link]
+- Channels: YOUTUBE_NETWORK mesh (6 nodes - conjunto fixo por design)
+- Governance: 03_ETHICAL_GOVERNANCE oversees VOID triggers

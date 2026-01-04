@@ -1,0 +1,9 @@
+# Cena Cor :: 0_0_relaxamento
+frequencias:
+  - canal: alpha
+    faixa_hz: 111.3
+  - canal: beta
+    faixa_hz: 88.8
+sincronizacao: fase-lunar
+amplitude: baixa
+comentario: "Definição técnica da cena cor e suas frequências de relaxamento."
