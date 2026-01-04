@@ -1,0 +1,30 @@
+{
+  "topology": "sovereignty-graph",
+  "nodes": [
+    {"id": "NODE_ALPHA", "channel_id": "alpha-channel-id", "role": "root"},
+    {"id": "NODE_BETA_01", "channel_id": "beta-01-channel-id", "role": "relay"},
+    {"id": "NODE_BETA_02", "channel_id": "beta-02-channel-id", "role": "relay"},
+    {"id": "NODE_BETA_03", "channel_id": "beta-03-channel-id", "role": "relay"},
+    {"id": "NODE_BETA_04", "channel_id": "beta-04-channel-id", "role": "relay"},
+    {"id": "NODE_BETA_05", "channel_id": "beta-05-channel-id", "role": "relay"}
+  ],
+  "links": [
+    ["NODE_ALPHA", "NODE_BETA_01"],
+    ["NODE_ALPHA", "NODE_BETA_02"],
+    ["NODE_ALPHA", "NODE_BETA_03"],
+    ["NODE_ALPHA", "NODE_BETA_04"],
+    ["NODE_ALPHA", "NODE_BETA_05"],
+    ["NODE_BETA_01", "NODE_BETA_02"],
+    ["NODE_BETA_02", "NODE_BETA_03"],
+    ["NODE_BETA_03", "NODE_BETA_04"],
+    ["NODE_BETA_04", "NODE_BETA_05"]
+  ],
+  "sync": {
+    "return_link": "https://github.com/ShantiDraconis/Lunar-Hive",
+    "keywords_focus": [
+      "Arquitetura de Dados Espaciais",
+      "Colonização Lunar",
+      "Google Solar Tech"
+    ]
+  }
+}

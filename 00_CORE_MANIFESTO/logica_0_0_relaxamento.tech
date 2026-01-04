@@ -1,0 +1,13 @@
+# Cena Cor 0/0 — parâmetros de relaxamento para broadcast YouTube
+palette:
+  background: "#0a0a0f"
+  accent: "#f5d142"
+  highlight: "#6dd3ff"
+audio_frequencies_hz:
+  base: 432
+  harmonic: 864
+  carrier: 963
+  pulse: 528
+sync:
+  frame_blend: 0.042
+  chroma_shift: "2px"

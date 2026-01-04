@@ -1,0 +1,10 @@
+# Esquema de modelagem — encadernação do livro de pele
+mesh:
+  layers: 3
+  material: "biopolymer"
+  grain: "spiral"
+binding:
+  stitch: "triple helix"
+  seal: "hematite resin"
+engraving:
+  glyphs: ["ᚠ", "ᚢ", "ᚦ", "𐎀"]

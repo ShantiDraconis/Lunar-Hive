@@ -1,0 +1,5 @@
+# Ponte de dados: sincroniza conquistas do repositório com o perfil profissional.
+source: "Lunar-Hive changelog"
+target: "LinkedIn profile feed"
+mode: "read-only mirror"
+notes: "Atualiza marcos de publicação e métricas de ressonância solar"
