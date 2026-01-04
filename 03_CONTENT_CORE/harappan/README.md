@@ -15,6 +15,9 @@ This directory documents research into the **Harappan (Indus Valley) script** â€
 **`symbol_inventory.md`** (in development)  
 Catalogue of known symbols with variants
 
+**`log_v62_v65.md`** (speculative log)  
+Creative continuation of Harappan symbol sequence V62â€“V65 (archival)
+
 **`mapping_hypotheses.md`** (planned)  
 Proposed phonetic/semantic mappings with falsifiability criteria
 
