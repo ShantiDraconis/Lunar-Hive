@@ -193,14 +193,14 @@ CATEGORIAS: Computers & Technology > Programming > Algorithms
 - Livros complementares
 - Cross-selling
 
-#### Estrutura de Budget (£500 inicial)
+#### Budget Allocation (£500 inicial)
 
-| Nicho | Auto | Manual KW | Manual Prod | Total |
-|-------|------|-----------|-------------|-------|
-| Arquitetura | £60 | £100 | £40 | £200 |
-| IA | £45 | £75 | £30 | £150 |
-| Sustentabilidade | £30 | £50 | £20 | £100 |
-| Testes A/B | - | - | - | £50 |
+| Category | Auto | Manual KW | Manual Prod | Total |
+|----------|------|-----------|-------------|-------|
+| Data Architecture | £60 | £100 | £40 | £200 |
+| AI & Algorithms | £45 | £75 | £30 | £150 |
+| Sustainability | £30 | £50 | £20 | £100 |
+| A/B Testing | - | - | - | £50 |
 
 #### Otimização Contínua
 

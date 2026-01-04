@@ -221,6 +221,8 @@ def calculate_transparency_score():
     """
     decisions_documented = count_audit_trail_entries()
     total_decisions = count_capital_allocations()
+    if total_decisions == 0:
+        return 100.0  # No decisions yet, perfect transparency by default
     return (decisions_documented / total_decisions) * 100
 
 # Target: 100% (todas as decisões documentadas)
@@ -236,6 +238,8 @@ def calculate_ethical_resonance():
     """
     aligned_decisions = count_manifesto_aligned_decisions()
     total_decisions = count_all_decisions()
+    if total_decisions == 0:
+        return 100.0  # No decisions yet, perfect alignment by default
     return (aligned_decisions / total_decisions) * 100
 
 # Target: ≥99% (conforme manifesto)
@@ -251,6 +255,8 @@ def calculate_sovereignty_score():
     """
     owned_assets = sum([apple_hardware, intellectual_property])
     total_value = sum([owned_assets, rented_services])
+    if total_value == 0:
+        return 0.0  # No assets yet
     return (owned_assets / total_value) * 100
 
 # Target: ≥70% (controle majoritário)

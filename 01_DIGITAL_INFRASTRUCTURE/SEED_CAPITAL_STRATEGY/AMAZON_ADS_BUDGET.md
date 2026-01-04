@@ -244,7 +244,8 @@
 
 **Cálculo**:
 - Receita Bruta: 100 × £3.49 = £349
-- Perda Inicial: £500 - £349 = -£151
+- Investimento Inicial: £500
+- Resultado Inicial: £349 - £500 = £151 de perda inicial
 
 **Mas**: Efeito de cauda longa
 - Vendas orgânicas estimuladas: +50 unidades/mês
