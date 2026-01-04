@@ -59,6 +59,16 @@ lunar-hive/
 │   ├── olympics/         # Cultural systems analysis
 │   └── community/        # Curated contributions
 │
+├── assets/               # Hardware and milestones
+│   ├── Hardware.md       # Physical infrastructure validation
+│   └── Milestone_LA2028.json  # Growth targets and metrics
+│
+├── lean/                 # Formal proofs
+│   └── Exponential.lean  # Growth theory formalization
+│
+├── logs/                 # System logs and documentation
+│   └── LOG_V53.0_20250104.md  # January 4th validation
+│
 └── .github/              # Templates & workflows
     ├── ISSUE_TEMPLATE/   # Bug, proposal, research
     └── workflows/        # Automation
