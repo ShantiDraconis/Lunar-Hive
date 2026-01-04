@@ -1,0 +1,756 @@
+{
+  "log_version": "V54.0",
+  "marco": "Los Angeles 2028 Summer Olympics",
+  "titulo_oficial": "Games of the XXXIV Olympiad",
+  "data_abertura": "2028-07-21",
+  "data_encerramento": "2028-08-06",
+  "dias_totais": 17,
+  "timestamp_log": "2026-01-04T18:15:00Z",
+  
+  "countdown": {
+    "data_referencia": "2026-01-04",
+    "dias_restantes": 929,
+    "semanas_restantes": 132,
+    "meses_restantes": 30,
+    "trimestres_restantes": 10,
+    "anos_restantes": 2.54,
+    "percentual_tempo_decorrido": 0.0,
+    "fase_atual": "Preparação Inicial - Crescimento Digital"
+  },
+  
+  "objetivos_la_2028": {
+    "visibilidade_global": {
+      "descricao": "Estabelecer presença física e digital durante os jogos olímpicos",
+      "sub_objetivos": [
+        {
+          "item": "Barco Escola operacional e posicionado off-coast de Los Angeles",
+          "meta_quantitativa": "Barco em operação 24/7 durante os 17 dias dos jogos",
+          "progresso_percentual": 23,
+          "status": "PLANEJADO",
+          "responsavel": "Equipe Barco Escola",
+          "prazo": "2028-07-15"
+        },
+        {
+          "item": "Transmissões ao vivo diárias dos jogos",
+          "meta_quantitativa": "Mínimo 2 livestreams/dia × 17 dias = 34 livestreams",
+          "progresso_percentual": 5,
+          "status": "PLANEJADO",
+          "responsavel": "Equipe Broadcast",
+          "prazo": "2028-07-21 a 2028-08-06"
+        },
+        {
+          "item": "Cobertura técnica de infraestrutura olímpica",
+          "meta_quantitativa": "10 vídeos especiais sobre tech dos jogos",
+          "progresso_percentual": 0,
+          "status": "PLANEJADO",
+          "responsavel": "Equipe Produção Alpha",
+          "prazo": "Durante os jogos"
+        },
+        {
+          "item": "Demonstrações de tecnologia de dados espaciais",
+          "meta_quantitativa": "5 demos ao vivo para parceiros/imprensa",
+          "progresso_percentual": 0,
+          "status": "PLANEJADO",
+          "responsavel": "Shanti Draconis + Equipe Técnica",
+          "prazo": "Durante os jogos"
+        },
+        {
+          "item": "Presença em eventos presenciais em Los Angeles",
+          "meta_quantitativa": "Participação em 3+ conferências/painéis técnicos",
+          "progresso_percentual": 0,
+          "status": "PLANEJADO",
+          "responsavel": "Shanti Draconis",
+          "prazo": "Julho-Agosto 2028"
+        }
+      ],
+      "kpi_principal": "Alcance combinado de 50M+ impressions durante os jogos",
+      "progresso_geral": 5.6
+    },
+    
+    "autoridade_tecnica": {
+      "descricao": "Reconhecimento global como autoridade máxima em tecnologia espacial e dados",
+      "sub_objetivos": [
+        {
+          "item": "500K+ subscribers YouTube combinados (Alpha + Betas)",
+          "meta_quantitativa": 500000,
+          "valor_atual": 1247,
+          "progresso_percentual": 0.25,
+          "status": "EM_PROGRESSO",
+          "prazo": "2028-07-01"
+        },
+        {
+          "item": "Parcerias formais com Google/NASA/ESA",
+          "meta_quantitativa": "3 parcerias tier-1 estabelecidas",
+          "valor_atual": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO",
+          "prazo": "2028-06-30"
+        },
+        {
+          "item": "Citações em publicações acadêmicas",
+          "meta_quantitativa": "10+ papers citando repositório GitHub",
+          "valor_atual": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO",
+          "prazo": "2028-07-01"
+        },
+        {
+          "item": "Contratos de consultoria/licenciamento",
+          "meta_quantitativa": "$500K+ em contratos fechados",
+          "valor_atual_usd": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO",
+          "prazo": "2028-08-31"
+        },
+        {
+          "item": "Cobertura em mídia tier-1",
+          "meta_quantitativa": "Artigos em NYT, WSJ, TechCrunch, Wired, etc",
+          "valor_atual": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO",
+          "prazo": "Durante os jogos"
+        }
+      ],
+      "kpi_principal": "Recognition score ≥ 0.95 em algoritmos de classificação",
+      "progresso_geral": 0.05
+    },
+    
+    "infraestrutura_fisica": {
+      "descricao": "Barco Escola totalmente operacional e demonstrável",
+      "sub_objetivos": [
+        {
+          "item": "Embarcação adquirida e retrofitada",
+          "status": "PLANEJADO",
+          "progresso_percentual": 23,
+          "prazo": "2026-12-31"
+        },
+        {
+          "item": "Todos os sistemas testados e certificados",
+          "status": "PLANEJADO",
+          "progresso_percentual": 0,
+          "prazo": "2027-03-31"
+        },
+        {
+          "item": "Equipe permanente contratada e treinada",
+          "status": "PLANEJADO",
+          "progresso_percentual": 0,
+          "prazo": "2027-06-30"
+        },
+        {
+          "item": "6+ meses de operação bem-sucedida pré-LA2028",
+          "status": "PLANEJADO",
+          "progresso_percentual": 0,
+          "prazo": "2028-01-01"
+        },
+        {
+          "item": "Posicionamento off-coast de LA",
+          "status": "PLANEJADO",
+          "progresso_percentual": 0,
+          "prazo": "2028-07-15"
+        }
+      ],
+      "kpi_principal": "Uptime 99.5%+ durante os 17 dias dos jogos",
+      "progresso_geral": 4.6
+    },
+    
+    "monetizacao": {
+      "descricao": "Capitalização do momento para estabelecer receita sustentável",
+      "sub_objetivos": [
+        {
+          "item": "Receita YouTube $100K+/mês",
+          "meta_usd": 100000,
+          "valor_atual_usd": 234,
+          "progresso_percentual": 0.23,
+          "status": "EM_PROGRESSO"
+        },
+        {
+          "item": "Contratos de broadcast/licenciamento",
+          "meta_usd": 500000,
+          "valor_atual_usd": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO"
+        },
+        {
+          "item": "Venda de dados oceanográficos",
+          "meta_usd": 120000,
+          "valor_atual_usd": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO"
+        },
+        {
+          "item": "Consultoria técnica",
+          "meta_usd": 200000,
+          "valor_atual_usd": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO"
+        },
+        {
+          "item": "Patrocínios e partnerships",
+          "meta_usd": 300000,
+          "valor_atual_usd": 0,
+          "progresso_percentual": 0,
+          "status": "PLANEJADO"
+        }
+      ],
+      "receita_total_alvo_2028_usd": 1220000,
+      "receita_atual_mensal_usd": 234,
+      "progresso_geral": 0.02
+    }
+  },
+  
+  "cronograma_ate_la_2028": [
+    {
+      "periodo": "2026-Q1",
+      "trimestre": 1,
+      "meses": ["Janeiro", "Fevereiro", "Março"],
+      "dias_restantes_ate_la": 899,
+      "fase": "Crescimento Digital Acelerado",
+      "foco": "Estabelecer canais YouTube, crescimento exponencial, primeira capitalização",
+      "objetivos": [
+        "Lançar 50 vídeos Alpha (Lei do Final 5)",
+        "Atingir 20K subscribers Alpha",
+        "Lançar 5 canais Beta",
+        "Ativar monetização",
+        "Receita $5K/mês",
+        "Repositório GitHub 100+ stars"
+      ],
+      "entregaveis_chave": [
+        "Alpha com crescimento exponencial confirmado",
+        "Template de sucesso estabelecido",
+        "Sistema de produção otimizado"
+      ],
+      "investimento_necessario_usd": 5000,
+      "receita_esperada_usd": 15000,
+      "status": "EM_PROGRESSO",
+      "progresso_percentual": 15,
+      "bloqueadores": [],
+      "riscos": ["Algoritmo não responder", "Produção não manter ritmo"]
+    },
+    {
+      "periodo": "2026-Q2",
+      "trimestre": 2,
+      "meses": ["Abril", "Maio", "Junho"],
+      "dias_restantes_ate_la": 808,
+      "fase": "Capitalização e Planejamento",
+      "foco": "Acelerar receita, identificar embarcação, formar parcerias",
+      "objetivos": [
+        "50K subscribers Alpha",
+        "10K subscribers cada Beta",
+        "Receita $15K/mês",
+        "Embarcação identificada",
+        "Orçamento retrofit completo",
+        "LOIs com parceiros técnicos"
+      ],
+      "entregaveis_chave": [
+        "Embarcação selecionada e acordo preliminar",
+        "Projeto técnico 3D completo",
+        "Parcerias Starlink, hardware"
+      ],
+      "investimento_necessario_usd": 15000,
+      "receita_esperada_usd": 90000,
+      "capital_acumulado_alvo_usd": 50000,
+      "status": "PLANEJADO",
+      "progresso_percentual": 0
+    },
+    {
+      "periodo": "2026-Q3",
+      "trimestre": 3,
+      "meses": ["Julho", "Agosto", "Setembro"],
+      "dias_restantes_ate_la": 717,
+      "fase": "Aquisição e Retrofit Inicial",
+      "foco": "Comprar/leasar embarcação, iniciar retrofit",
+      "objetivos": [
+        "100K subscribers Alpha",
+        "Embarcação adquirida",
+        "Retrofit 30% completo",
+        "Hardware encomendado",
+        "Receita $35K/mês"
+      ],
+      "entregaveis_chave": [
+        "Posse da embarcação",
+        "Infraestrutura elétrica instalada",
+        "Painéis solares instalados"
+      ],
+      "investimento_necessario_usd": 200000,
+      "receita_esperada_usd": 315000,
+      "capital_acumulado_alvo_usd": 150000,
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2026-Q4",
+      "trimestre": 4,
+      "meses": ["Outubro", "Novembro", "Dezembro"],
+      "dias_restantes_ate_la": 626,
+      "fase": "Conclusão de Retrofit",
+      "foco": "Completar instalações, testes, certificações",
+      "objetivos": [
+        "150K subscribers Alpha",
+        "Retrofit 100% completo",
+        "Todos os sistemas testados",
+        "Certificações obtidas",
+        "Equipe contratada",
+        "Receita $50K/mês"
+      ],
+      "entregaveis_chave": [
+        "Barco totalmente operacional",
+        "Primeira navegação oceânica",
+        "Time permanente treinado"
+      ],
+      "investimento_necessario_usd": 250000,
+      "receita_esperada_usd": 450000,
+      "capital_acumulado_alvo_usd": 300000,
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2027-Q1",
+      "trimestre": 5,
+      "meses": ["Janeiro", "Fevereiro", "Março"],
+      "dias_restantes_ate_la": 535,
+      "fase": "Operação Inicial",
+      "foco": "Primeira expedição, coleta de dados, estabelecer operação",
+      "objetivos": [
+        "200K subscribers Alpha",
+        "30 dias contínuos no mar",
+        "10TB dados coletados",
+        "Primeira venda de dados",
+        "50 livestreams do barco"
+      ],
+      "entregaveis_chave": [
+        "Operação 24/7 confirmada",
+        "Receita de dados iniciada",
+        "Conteúdo único do barco"
+      ],
+      "receita_esperada_usd": 720000,
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2027-Q2",
+      "trimestre": 6,
+      "meses": ["Abril", "Maio", "Junho"],
+      "dias_restantes_ate_la": 444,
+      "fase": "Otimização Operacional",
+      "foco": "Expedições regulares, otimizar custos, expandir serviços",
+      "objetivos": [
+        "300K subscribers Alpha",
+        "3 expedições de 20-30 dias",
+        "Parcerias com instituições de pesquisa",
+        "Receita dados $30K/mês"
+      ],
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2027-Q3",
+      "trimestre": 7,
+      "meses": ["Julho", "Agosto", "Setembro"],
+      "dias_restantes_ate_la": 353,
+      "fase": "Expansão de Serviços",
+      "foco": "Diversificar receita, estabelecer autoridade",
+      "objetivos": [
+        "400K subscribers combinados",
+        "Contratos de consultoria iniciados",
+        "Primeira publicação acadêmica citando o trabalho"
+      ],
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2027-Q4",
+      "trimestre": 8,
+      "meses": ["Outubro", "Novembro", "Dezembro"],
+      "dias_restantes_ate_la": 262,
+      "fase": "Consolidação e Preparação LA",
+      "foco": "Fortalecer operação, iniciar planejamento LA 2028",
+      "objetivos": [
+        "600K subscribers combinados",
+        "Operação autossustentável",
+        "Iniciar conversas com broadcasters para LA"
+      ],
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2028-Q1",
+      "trimestre": 9,
+      "meses": ["Janeiro", "Fevereiro", "Março"],
+      "dias_restantes_ate_la": 171,
+      "fase": "Preparação Intensiva LA 2028",
+      "foco": "Posicionamento, parcerias, conteúdo especial",
+      "objetivos": [
+        "800K subscribers combinados",
+        "Parcerias Google/NASA em andamento",
+        "Série documental 'Road to LA' em produção",
+        "Equipamento especial para cobertura encomendado"
+      ],
+      "entregaveis_chave": [
+        "Plano detalhado de cobertura dos jogos",
+        "Parcerias de broadcast confirmadas",
+        "Permissões e licenças obtidas"
+      ],
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2028-Q2",
+      "trimestre": 10,
+      "meses": ["Abril", "Maio", "Junho"],
+      "dias_restantes_ate_la": 80,
+      "fase": "Posicionamento Final",
+      "foco": "Mover barco para LA, setup, testes finais",
+      "objetivos": [
+        "1M subscribers combinados",
+        "Barco posicionado off-coast LA",
+        "Sistema de transmissão testado",
+        "Equipe expandida para cobertura",
+        "Eventos presenciais agendados"
+      ],
+      "entregaveis_chave": [
+        "Barco em posição até 2028-07-15",
+        "Todos os sistemas operacionais",
+        "Cronograma de cobertura finalizado",
+        "Press kit e materiais prontos"
+      ],
+      "status": "PLANEJADO"
+    },
+    {
+      "periodo": "2028-Q3 (Jogos)",
+      "trimestre": 11,
+      "meses": ["Julho", "Agosto", "Setembro"],
+      "dias_restantes_ate_la": 0,
+      "fase": "EXECUÇÃO - LOS ANGELES 2028",
+      "foco": "Cobertura completa, demonstrações, networking, consolidação",
+      "objetivos_durante_jogos": [
+        "34+ livestreams (2/dia × 17 dias)",
+        "10 vídeos especiais sobre tech olímpica",
+        "5 demos para parceiros/imprensa",
+        "Participação em 3+ conferências",
+        "Cobertura em mídia tier-1",
+        "3+ parcerias tier-1 fechadas",
+        "Contratos $500K+ fechados",
+        "50M+ impressions totais"
+      ],
+      "entregaveis_chave": [
+        "Cobertura completa e bem-sucedida",
+        "Reconhecimento global estabelecido",
+        "Parcerias formalizadas",
+        "Pipeline de negócios robusto",
+        "1.5M+ subscribers alcançados"
+      ],
+      "depois_dos_jogos": [
+        "Consolidar parcerias fechadas",
+        "Processar e publicar conteúdo dos jogos",
+        "Análise de ROI e impacto",
+        "Planejamento de expansão pós-LA"
+      ],
+      "status": "PLANEJADO"
+    }
+  ],
+  
+  "contexto_olimpico": {
+    "porque_la_2028": {
+      "razao_1": "Maior evento global de atenção concentrada",
+      "razao_2": "Los Angeles = capital tecnológica, proximidade Google/SpaceX/JPL",
+      "razao_3": "Infraestrutura de transmissão massiva de ponta",
+      "razao_4": "Marco temporal definido e imutável",
+      "razao_5": "Prestígio e visibilidade internacional",
+      "razao_6": "Oportunidade de demonstração de tecnologia ao vivo",
+      "razao_7": "Convergência de líderes de indústria",
+      "razao_8": "Momento de estabelecimento de autoridade permanente"
+    },
+    "olimpiadas_anteriores_tech": {
+      "tokyo_2020": "Foco em robótica, AI, veículos autônomos",
+      "beijing_2022": "Cloud computing, 5G, broadcast 8K",
+      "paris_2024": "Sustentabilidade, AI, smart city tech",
+      "la_2028": "NOSSA OPORTUNIDADE - Space tech, data infrastructure, digital sovereignty"
+    },
+    "audiencia_estimada": {
+      "tv_global": 3500000000,
+      "streaming_online": 1000000000,
+      "total_impressions": 4500000000,
+      "nosso_alvo_percentual": 0.01,
+      "nosso_alcance_estimado": 45000000
+    }
+  },
+  
+  "plano_de_presenca": {
+    "antes_dos_jogos": {
+      "6_meses_antes": [
+        "Anunciar plano de cobertura",
+        "Iniciar série 'Road to LA 2028'",
+        "Estabelecer parcerias com broadcasters"
+      ],
+      "3_meses_antes": [
+        "Teaser campaigns",
+        "Behind-the-scenes do barco",
+        "Entrevistas e press releases"
+      ],
+      "1_mes_antes": [
+        "Mover barco para posição",
+        "Testes finais de sistema",
+        "Media day no barco"
+      ]
+    },
+    "durante_os_jogos": {
+      "cobertura_diaria": [
+        "Morning show (08:00 LA time) - Resumo e preview do dia",
+        "Evening show (20:00 LA time) - Recap e análise técnica"
+      ],
+      "conteudo_especial": [
+        "Tech behind Olympic broadcast infrastructure",
+        "Data analytics dos jogos em tempo real",
+        "Demonstrações de nossa tecnologia",
+        "Tours virtuais do Barco Escola",
+        "Interviews com tech leaders"
+      ],
+      "eventos_presenciais": [
+        "Olympic Tech Summit (se existir)",
+        "Google/YouTube Creator events",
+        "SpaceX/JPL tours e networking",
+        "Media interviews",
+        "Sponsor meetings"
+      ],
+      "operacao_barco": [
+        "24/7 uptime garantido",
+        "Backup systems ativos",
+        "Equipe expandida (10-12 pessoas)",
+        "Múltiplos streams simultâneos",
+        "Coleta de dados oceanográficos contínua"
+      ]
+    },
+    "depois_dos_jogos": {
+      "imediato_1_semana": [
+        "Recap e highlights",
+        "Thank you to partners",
+        "Análise de dados coletados"
+      ],
+      "curto_prazo_1_mes": [
+        "Processing de todo o conteúdo",
+        "Follow-up com parcerias",
+        "Formalização de contratos"
+      ],
+      "medio_prazo_3_meses": [
+        "Publicação de white papers",
+        "Expansão de operações",
+        "Planejamento 2029-2030"
+      ]
+    }
+  },
+  
+  "deliverables_especificos": {
+    "conteudo_video": {
+      "livestreams_durante_jogos": 34,
+      "videos_especiais_tech": 10,
+      "behind_the_scenes": 5,
+      "interviews": 15,
+      "total_horas_conteudo": 50
+    },
+    "dados_e_analise": {
+      "dados_oceanograficos_tb": 5,
+      "analytics_olimpiadas": "Real-time dashboard público",
+      "white_papers": 2,
+      "blog_posts": 20
+    },
+    "networking": {
+      "reunioes_tier1_companies": 10,
+      "conferencias_participacao": 3,
+      "media_interviews": 15,
+      "contatos_qualificados": 100
+    },
+    "negocios": {
+      "parcerias_formalizadas": 3,
+      "contratos_fechados_usd": 500000,
+      "pipeline_qualificado_usd": 2000000,
+      "receita_mes_durante_jogos_usd": 150000
+    }
+  },
+  
+  "metricas_sucesso": {
+    "quantitativas": {
+      "subscribers_meta": 1500000,
+      "views_durante_jogos_meta": 10000000,
+      "impressions_totais_meta": 50000000,
+      "receita_total_meta_usd": 1220000,
+      "contratos_meta_usd": 500000,
+      "parcerias_meta": 3
+    },
+    "qualitativas": {
+      "reconhecimento_autoridade": "Menções em mídia tier-1 como líder em tech espacial",
+      "estabelecimento_marca": "Lunar Hive reconhecido globalmente",
+      "credibilidade_tecnica": "Convites para conferências principais pós-jogos",
+      "network_effect": "Conexões duradouras com líderes de indústria"
+    },
+    "criterios_sucesso_minimo": [
+      "Uptime 99%+ durante os jogos",
+      "Ao menos 20 livestreams realizados",
+      "Ao menos 1 parceria tier-1 fechada",
+      "Ao menos $100K em contratos",
+      "Cobertura em ao menos 3 publicações tier-1",
+      "1M+ subscribers alcançados"
+    ],
+    "criterios_sucesso_ideal": [
+      "Uptime 99.9%+ durante os jogos",
+      "34+ livestreams realizados",
+      "3+ parcerias tier-1 fechadas",
+      "$500K+ em contratos",
+      "Cobertura em 10+ publicações tier-1",
+      "1.5M+ subscribers alcançados",
+      "50M+ impressions totais"
+    ]
+  },
+  
+  "riscos_e_contingencias": {
+    "tecnicos": [
+      {
+        "risco": "Falha de conectividade via satélite durante momentos críticos",
+        "probabilidade": "BAIXA",
+        "impacto": "ALTO",
+        "mitigacao": "Três sistemas independentes (Starlink, Iridium, Inmarsat), buffer de conteúdo pré-gravado",
+        "contingencia": "Transmissão a partir de local terrestre backup em LA"
+      },
+      {
+        "risco": "Problemas técnicos com equipamento de broadcast",
+        "probabilidade": "MEDIA",
+        "impacto": "MEDIO",
+        "mitigacao": "Equipamento redundante, equipe técnica especializada, testes extensivos pré-jogos",
+        "contingencia": "Simplificação de produção, foco em estabilidade vs qualidade máxima"
+      }
+    ],
+    "operacionais": [
+      {
+        "risco": "Condições meteorológicas impedem operação do barco",
+        "probabilidade": "BAIXA",
+        "impacto": "ALTO",
+        "mitigacao": "Julho-Agosto em LA geralmente tem bom tempo, monitoramento meteorológico avançado",
+        "contingencia": "Retornar a porto seguro, continuar transmissões de terra"
+      },
+      {
+        "risco": "Problemas com permissões/licenças para operação",
+        "probabilidade": "MEDIA",
+        "impacto": "ALTO",
+        "mitigacao": "Iniciar processo de licenciamento 12+ meses antes, consultoria legal especializada",
+        "contingencia": "Operação a partir de local terrestre ou barco em porto"
+      }
+    ],
+    "de_negocio": [
+      {
+        "risco": "Parcerias não se materializam como esperado",
+        "probabilidade": "MEDIA",
+        "impacto": "MEDIO",
+        "mitigacao": "Pipeline robusto, múltiplas conversas paralelas, valor único claro",
+        "contingencia": "Foco em crescimento orgânico, monetização via YouTube"
+      },
+      {
+        "risco": "Competição de outras tech companies/creators",
+        "probabilidade": "ALTA",
+        "impacto": "BAIXO",
+        "mitigacao": "Diferenciação única (barco offshore, provas formais, soberania digital)",
+        "contingencia": "Colaboração vs competição, nicho específico (space tech + data sovereignty)"
+      }
+    ],
+    "externos": [
+      {
+        "risco": "Mudanças inesperadas no formato/acesso aos jogos",
+        "probabilidade": "BAIXA",
+        "impacto": "MEDIO",
+        "mitigacao": "Plano flexível, foco em tech vs jogos per se",
+        "contingencia": "Pivot para cobertura de infraestrutura e tech em geral"
+      }
+    ]
+  },
+  
+  "budget_estimado": {
+    "preparacao_ate_jogos": {
+      "barco_retrofit_completo_usd": 500000,
+      "equipamento_broadcast_adicional_usd": 50000,
+      "marketing_promocao_usd": 30000,
+      "legal_licencas_usd": 20000,
+      "viagens_networking_usd": 15000,
+      "equipe_adicional_contratacao_usd": 40000,
+      "contingencia_usd": 45000,
+      "total_usd": 700000
+    },
+    "durante_jogos": {
+      "operacao_barco_17_dias_usd": 25000,
+      "equipe_adicional_temporaria_usd": 20000,
+      "eventos_presenciais_usd": 10000,
+      "misc_expenses_usd": 5000,
+      "total_usd": 60000
+    },
+    "total_investimento_la_2028_usd": 760000,
+    "fontes_financiamento": [
+      "Receita YouTube acumulada",
+      "Contratos de consultoria",
+      "Venda de dados",
+      "Investimento externo (se necessário)",
+      "Patrocínios"
+    ]
+  },
+  
+  "legado_pos_la_2028": {
+    "imediato": [
+      "Reconhecimento global estabelecido",
+      "Network de parceiros tier-1",
+      "Pipeline robusto de negócios",
+      "Brand equity significativo"
+    ],
+    "medio_prazo": [
+      "Expansão para outros eventos globais",
+      "Licenciamento de tecnologia em escala",
+      "Consultoria para organizações olímpicas futuras",
+      "Expansão de frota (segundo barco?)"
+    ],
+    "longo_prazo": [
+      "Estabelecimento permanente como autoridade em space tech",
+      "Participação em missões espaciais reais",
+      "Infrastructure para colonização lunar/marciana",
+      "Legacy duradouro além de eventos únicos"
+    ]
+  },
+  
+  "comparacao_com_marcos_anteriores": {
+    "outros_eventos_globais": {
+      "world_cup_2026": "Não é nosso foco mas pode ser teste menor",
+      "paris_2024": "Observar, aprender, não participar ativamente",
+      "expo_2025_osaka": "Possível participação menor",
+      "la_2028": "MARCO PRINCIPAL - all-in"
+    }
+  },
+  
+  "kpis_monitoramento": {
+    "mensais_ate_jogos": [
+      "Progresso em cada sub-objetivo",
+      "Subscriber growth",
+      "Capital acumulado",
+      "Parcerias em andamento",
+      "Progresso de retrofit do barco"
+    ],
+    "semanais_proximos_jogos": [
+      "Sistema readiness",
+      "Team readiness",
+      "Conteúdo preparado",
+      "Partnerships confirmadas"
+    ],
+    "diarios_durante_jogos": [
+      "Uptime sistemas",
+      "Livestreams realizados",
+      "Views e engagement",
+      "Media coverage",
+      "Meetings realizadas"
+    ]
+  },
+  
+  "documentacao_e_recursos": {
+    "este_tracker": "logs/LA_2028_Tracker.json",
+    "projeto_barco": "logs/Barco_Escola.json",
+    "canal_alpha": "logs/YouTube_Alpha.json",
+    "sistema_status": "logs/System_Status.json",
+    "protocolo_principal": "README.md",
+    "provas_formais": "lean/*.lean"
+  },
+  
+  "notas_finais": {
+    "filosofia": "LA 2028 não é um fim, mas um marco no caminho para soberania digital e colonização espacial. É o momento de visibilidade global que estabelece autoridade permanente.",
+    "compromisso": "All-in em LA 2028. Todos os esforços de 2026-2028 convergem para este momento.",
+    "pos_la_2028": "Usar momentum e credibilidade estabelecidos para expansão agressiva em direção a objetivos de longo prazo: infraestrutura lunar, colonização marciana.",
+    "status_atual": "Fase inicial, 929 dias restantes, 0.05% de progresso geral, mas caminho claro definido.",
+    "confianca": "ALTA - baseada em cronograma realista, capitalização viável via crescimento exponencial YouTube, e diferenciação única.",
+    "proxima_revisao": "2026-02-01T00:00:00Z",
+    "responsavel": "Shanti Draconis <architect@lunarhive.space>"
+  }
+}
