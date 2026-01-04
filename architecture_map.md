@@ -96,7 +96,7 @@ YouTube Analytics
        │
        ├─► Completion Rate ───────────► Validates final_five_amplifies theorem
        │
-       └─► Engagement Metrics ────────► Validates handshake_protocol.log
+       └─► Engagement Metrics ────────► Validates handshake_protocol.md
 ```
 
 ---
@@ -187,7 +187,7 @@ Content Strategy
 **Process**:
 1. Capture metrics from YouTube Analytics
 2. Compare against predictions in `Exponential.lean`
-3. Log results in `handshake_protocol.log`
+3. Log results in `handshake_protocol.md`
 4. Update roadmap in `road_to_LA2028.md`
 5. Iterate on next content cycle
 
@@ -214,7 +214,7 @@ Content Strategy
 
 ## The Handshake: Where Fluidity Meets Rigidity
 
-The **Handshake Protocol** (documented in `/logs/handshake_protocol.log`) is the critical mechanism where YouTube and GitHub communicate:
+The **Handshake Protocol** (documented in `/logs/handshake_protocol.md`) is the critical mechanism where YouTube and GitHub communicate:
 
 ```
 ┌────────────────┐                           ┌────────────────┐
@@ -270,7 +270,7 @@ The **Handshake Protocol** (documented in `/logs/handshake_protocol.log`) is the
 
 1. **Content Upload**
    - YouTube: Video published
-   - GitHub: Log updated in `handshake_protocol.log`
+   - GitHub: Log updated in `handshake_protocol.md`
    - Sync: Upload timestamp, video ID, initial specs
 
 2. **Metrics Capture** (48 hours post-upload)
@@ -444,7 +444,7 @@ The integration is successful when:
 ### Phase 1: Manual Integration (2026 Q1)
 - Manual content creation following specifications
 - Manual metrics capture from YouTube Analytics
-- Manual updates to handshake_protocol.log
+- Manual updates to handshake_protocol.md
 - Manual roadmap reviews and updates
 
 ### Phase 2: Semi-Automated Integration (2026 Q2-Q3)

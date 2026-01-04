@@ -133,7 +133,7 @@
         "root": ["README.md", "LICENSE", "architecture_map.md"],
         "lean": ["Main.lean", "Sovereignty.lean", "Exponential.lean"],
         "assets": ["hardware_specs.md", "color_palette.json", "video_metadata.xml"],
-        "logs": ["log_2026_01_04_sigilo.json", "road_to_LA2028.md", "handshake_protocol.log"]
+        "logs": ["log_2026_01_04_sigilo.json", "road_to_LA2028.md", "handshake_protocol.md"]
       },
       "validation_status": "IN_PROGRESS"
     }

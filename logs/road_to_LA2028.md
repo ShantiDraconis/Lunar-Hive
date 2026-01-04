@@ -68,7 +68,7 @@ This document charts the exponential expansion trajectory from the Hit validatio
 - First metrics review
 - Validate retention >= 1.453%
 - Confirm exponential growth pattern initiation
-- Document results in handshake_protocol.log
+- Document results in handshake_protocol.md
 
 **2026-01-15** (Day 11)
 - Week 1 growth analysis
@@ -360,7 +360,7 @@ This roadmap connects to:
 - **`lean/Exponential.lean`**: Mathematical validation of growth trajectory
 - **`assets/video_metadata.xml`**: Temporal optimization at micro level
 - **`assets/color_palette.json`**: Visual consistency throughout expansion
-- **`logs/handshake_protocol.log`**: Ongoing metrics validation
+- **`logs/handshake_protocol.md`**: Ongoing metrics validation
 - **`architecture_map.md`**: System-level integration and coordination
 
 ---
