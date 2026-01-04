@@ -12,6 +12,8 @@
 *.tmp
 *.bak
 *.log
+# Exception: Mission Critical logs are required
+!logs/*.log
 
 # OS generated files
 Thumbs.db
