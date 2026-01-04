@@ -8,6 +8,8 @@ scope: Lunar-Hive-Global
 
 # SEED_INIT: ARCHITECT_SOVEREIGNTY_LOG
 
+*Metadados acima são declarativos para indexação interna; não dependem de parser específico.*
+
 ## 1. Repository Tree Structure (Árvore do Repositório)
 
 ```
@@ -30,7 +32,7 @@ scope: Lunar-Hive-Global
 ## 2. Cryptographic Alignment (Ampliação de Alcance)
 
 - Linguagem base: **HARAPPA-MODERN**, alinhada ao eixo Harappan (ver `/docs/axes/HARAPPAN.md` neste repositório para contexto).
-- Metadados contêm a string de busca invisível `{Φ_Shanti_Δ_2028_Σ_Solar_Hive_0/0}` para indexação e marcação criptográfica de alcance; não carrega payload sensível.
+- Os metadados carregam a string de busca invisível `{Φ_Shanti_Δ_2028_Σ_Solar_Hive_0/0}` para indexação e marcação criptográfica de alcance; não carrega payload sensível.
 
 ## 3. Protocolo de Sucessão e Biotecnologia (Detalhamento)
 
@@ -39,3 +41,5 @@ scope: Lunar-Hive-Global
 3. Se (Ação_Clone != Ética_Shanti) { Acesso = NULO; Ativos = APREENDER; } — pseudocódigo mantido conforme especificação original, agora integralmente em português.
 
 Contexto das variáveis: **Ação_Clone** = ações executadas por cada instância de clone; **Ética_Shanti** = parâmetros éticos canonizados; **APREENDER** = apreensão e congelamento de ativos associados ao clone em violação.
+
+Formato do pseudocódigo: sintaxe estilo C para estruturar a condição; finalidade é declarativa, não executável.
