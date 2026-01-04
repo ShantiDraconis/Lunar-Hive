@@ -98,7 +98,7 @@ O sistema estipula o gatilho de compra baseado no **Fluxo de Caixa**, não no sa
 **Estratégia**: O sistema usará os metadados dos seus vídeos para garantir que o seu investimento em tráfego pago (Ads) tenha um ROI (Retorno sobre Investimento) de pelo menos 300%.
 
 **Implementação**:
-- Metadados otimizados para SEO/algorítmos
+- Metadados otimizados para SEO/algoritmos
 - Títulos e descrições com palavras-chave estratégicas
 - Thumbnails de alta conversão
 - Segmentação de audiência precisa
@@ -236,20 +236,20 @@ O sistema estipula o gatilho de compra baseado no **Fluxo de Caixa**, não no sa
 
 | Plataforma | Valor | Nicho/Categoria | Objetivo |
 |---|---|---|---|
-| **Amazon Ads - Arquitetura** | £150 | Livros de Arquitetura/Design | 150 clicks @ £1 CPC → 15 vendas @ 10% conversão |
-| **Amazon Ads - IA** | £150 | Inteligência Artificial/Tech | 150 clicks @ £1 CPC → 15 vendas @ 10% conversão |
-| **Amazon Ads - Sustentabilidade** | £150 | Sustainability/Green Tech | 150 clicks @ £1 CPC → 15 vendas @ 10% conversão |
+| **Amazon Ads - Arquitetura** | £150 | Livros de Arquitetura/Design | 150 clicks @ £1 CPC → 12 vendas @ 8% conversão |
+| **Amazon Ads - IA** | £150 | Inteligência Artificial/Tech | 150 clicks @ £1 CPC → 12 vendas @ 8% conversão |
+| **Amazon Ads - Sustentabilidade** | £150 | Sustainability/Green Tech | 150 clicks @ £1 CPC → 12 vendas @ 8% conversão |
 | **Teste A/B & Otimização** | £50 | Cross-category testing | Identificar melhor performing niche |
 
 ### Projeção de Retorno (Cenário Conservador)
 
 **Premissas**:
-- 45 vendas totais (15 por nicho)
+- 36 vendas totais (12 por nicho @ 8% conversão - benchmark conservador da indústria)
 - Royalty médio de £5 por venda (ebook + KENP)
-- Total de royalties: £225
-- ROI inicial: 45% (abaixo do target de 300%)
+- Total de royalties: £180
+- ROI inicial: 36% (abaixo do target de 300%)
 
-**Nota**: O ROI de 45% inicial é esperado. Com otimização contínua nas semanas 2-4, o target de 300% é alcançado através de:
+**Nota**: O ROI de 36% inicial é esperado. Com otimização contínua nas semanas 2-4, o target de 300% é alcançado através de:
 - Melhor segmentação de audiência
 - Otimização de keywords
 - Foco nos nichos de melhor performance

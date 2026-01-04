@@ -43,10 +43,10 @@
 
 ### Expectativas (Conservador)
 - **Clicks**: 150
-- **Conversão**: 10% = 15 vendas
+- **Conversão**: 8% = 12 vendas (benchmark conservador da indústria)
 - **Royalty Médio**: £5/venda
-- **Receita**: £75
-- **ROI**: 50% (abaixo do target, mas esperado em fase inicial)
+- **Receita**: £60
+- **ROI**: 40% (abaixo do target, mas esperado em fase inicial)
 
 ---
 
@@ -73,10 +73,10 @@
 
 ### Expectativas (Conservador)
 - **Clicks**: 150
-- **Conversão**: 10% = 15 vendas
+- **Conversão**: 8% = 12 vendas (benchmark conservador da indústria)
 - **Royalty Médio**: £5/venda
-- **Receita**: £75
-- **ROI**: 50%
+- **Receita**: £60
+- **ROI**: 40%
 
 ---
 
@@ -104,10 +104,10 @@
 
 ### Expectativas (Conservador)
 - **Clicks**: 150
-- **Conversão**: 10% = 15 vendas
+- **Conversão**: 8% = 12 vendas (benchmark conservador da indústria)
 - **Royalty Médio**: £5/venda
-- **Receita**: £75
-- **ROI**: 50%
+- **Receita**: £60
+- **ROI**: 40%
 
 ---
 
@@ -139,11 +139,11 @@
 |---|---|
 | **Investimento Total** | £500 |
 | **Total de Clicks** | 450-500 |
-| **Total de Vendas** | 45 |
-| **Receita Total** | £225 |
-| **ROI** | **45%** |
+| **Total de Vendas** | 36 (8% conversão conservadora) |
+| **Receita Total** | £180 |
+| **ROI** | **36%** |
 
-**Nota**: ROI de 45% é esperado no primeiro ciclo. Este é o baseline para otimização.
+**Nota**: ROI de 36% é esperado no primeiro ciclo. Este é o baseline para otimização.
 
 ### Cenário Otimizado (Ciclo 2 - após learnings)
 | Métrica | Valor |
@@ -291,7 +291,7 @@ ROI = ((Sales Revenue - Spend) / Spend) × 100
 
 ---
 
-**Lembrete**: Este é um investimento de aprendizado. O objetivo do primeiro ciclo não é lucro máximo, mas aprender qual nicho, quais keywords, e qual messaging convertem melhor para os seus livros específicos.
+**Lembrete**: Este é um investimento de aprendizado. O objetivo do primeiro ciclo não é lucro máximo, mas aprender qual nicho, quais keywords, e qual mensagem convertem melhor para os seus livros específicos.
 
 **Meta do Ciclo 1**: Identificar o que funciona  
 **Meta do Ciclo 2**: Otimizar o que funciona  
