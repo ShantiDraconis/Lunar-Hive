@@ -2,7 +2,7 @@
 
 A conversão de osso em diamante é tratada como função de preservação de dados:
 
-\[ D(p, T) = k \cdot \ln(p) \cdot T^{\alpha} \]
+$$ D(p, T) = k \cdot \ln(p) \cdot T^{\alpha} $$
 
 - **p**: pressão (GPa)
 - **T**: temperatura (K)

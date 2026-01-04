@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Small SEO enhancer for Lunar Hive videos."""
 
-from typing import List
+from typing import List, Optional
 
 KEYWORDS = [
     "Arquitetura de Dados Espaciais",
@@ -12,7 +12,7 @@ KEYWORDS = [
 # ᚠᚢᚦᛁ 𐏃𐎼𐎱𐎠 — injeta ressonância semântica
 # コメント: 保持 frequência ética; nenhuma chave é gravada aqui.
 
-def enrich_title(title: str, extra: List[str] | None = None) -> str:
+def enrich_title(title: str, extra: Optional[List[str]] = None) -> str:
     """Append curated keywords while preserving brevity."""
     extras = extra or []
     bundle = KEYWORDS + extras
@@ -22,7 +22,7 @@ def enrich_title(title: str, extra: List[str] | None = None) -> str:
 
 def build_description(summary: str, depth: int = 1) -> str:
     """Create a description with layered keyword echoes."""
-    echoes = " ".join(KEYWORDS[:depth])
+    echoes = " ".join(KEYWORDS[: min(depth, len(KEYWORDS))])
     return f"{summary}\n\n{echoes}"
 
 
