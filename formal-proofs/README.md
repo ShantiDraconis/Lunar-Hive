@@ -17,11 +17,12 @@ Main sovereignty protocol verification file containing:
 #### Core Axioms
 - **`zero_over_zero_structured`**: Formalizes that 0/0 indeterminate forms contain structured information
 - **`unity_duality_logic`**: Establishes the 1=2 logic under indeterminate conditions
+- **`infinite_growth_from_hit`**: Postulates unbounded growth trajectory from activation date
+- **`initialize_zero_engine`**: Axiom for constructing valid Zero Engine instances
 
-#### Key Theorems
+#### Proven Theorems
 - **`final_five_stability`**: Proves that the final state (5) generates exponential stability
 - **`repository_sovereignty`**: Demonstrates sovereignty through resonance threshold maintenance
-- **`infinite_growth_from_hit`**: Guarantees unbounded growth trajectory from activation date
 
 #### Structures
 - **`HarappaSignature`**: Cryptographic signature structure with sovereignty validation
@@ -42,7 +43,9 @@ theorem final_five_stability :
 
 ## Compilation
 
-To verify these proofs (requires Lean 4 and Mathlib):
+**Note**: This file uses axioms to establish the foundational framework. Some complex proofs (particularly around infinite growth and convergence properties) are left as axioms pending full formalization. This is a standard approach in formal verification when establishing a framework's structure before completing all detailed proofs.
+
+To verify the proven theorems (requires Lean 4 and Mathlib):
 
 ```bash
 lake build

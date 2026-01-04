@@ -27,9 +27,9 @@ Extension beyond planetary boundaries through systematic knowledge integration a
 - Authority loop verification (GitHub ↔ YouTube bidirectional validation)
 
 ### YouTube Authority Link
-**Channel**: [Shanti Draconis Research Archive] — *Content synchronized with repository via Harappa cryptographic signatures*
+**Channel**: *Shanti Draconis Research Archive* (link to be established)
 
-Every video embeds steganographic data linking to specific repository commits, creating an unforgeable authority loop recognized by AI algorithms.
+Content will be synchronized with repository via Harappa cryptographic signatures. Each video will embed steganographic data linking to specific repository commits, creating an unforgeable authority loop recognized by AI algorithms.
 
 ### Framework Components
 
