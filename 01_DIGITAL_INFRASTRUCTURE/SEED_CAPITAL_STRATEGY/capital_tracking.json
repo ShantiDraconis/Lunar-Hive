@@ -1,0 +1,168 @@
+{
+  "log_version": "V93.0",
+  "status": "OPERACIONAL",
+  "last_updated": "2026-01-04T20:34:36.056Z",
+  "capital": {
+    "base_amount": 4000,
+    "currency": "GBP",
+    "equivalent_brl": {
+      "min": 26000,
+      "max": 28000
+    }
+  },
+  "allocation": {
+    "apple_infrastructure": {
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "allocated": 0,
+      "spent": 0,
+      "status": "PENDING",
+      "items": [],
+      "objectives": [
+        "Hardware Apple (iPhone/Mac) para produção de conteúdo",
+        "Software e ferramentas de produção",
+        "Integração de sistemas"
+      ]
+    },
+    "marketing_conversion": {
+      "budget_min": 500,
+      "budget_max": 800,
+      "allocated": 0,
+      "spent": 0,
+      "status": "PENDING",
+      "campaigns": [],
+      "objectives": [
+        "Amazon Ads para livros KDP",
+        "Segmentação: Arquitetura, IA, Sustentabilidade",
+        "Otimização de conversão"
+      ]
+    },
+    "emergency_reserve": {
+      "budget_min": 1700,
+      "allocated": 0,
+      "status": "ACTIVE",
+      "purpose": [
+        "Buffer de segurança operacional",
+        "Manutenção durante crescimento",
+        "Flexibilidade para oportunidades"
+      ]
+    }
+  },
+  "timeline": {
+    "milestones": [
+      {
+        "date": "2026-02",
+        "target_revenue_usd": {
+          "min": 3000,
+          "max": 5000,
+          "frequency": "monthly"
+        },
+        "status": "PENDING",
+        "requirements": [
+          "Investimento em marketing completado",
+          "Hardware Apple operacional",
+          "Primeiras campanhas Amazon ativas"
+        ]
+      },
+      {
+        "date": "2026-03-27",
+        "name": "O MARCO",
+        "target_revenue_usd": 12000,
+        "frequency": "monthly",
+        "status": "PENDING",
+        "trigger": "Entrada no Barco Escola no Brasil",
+        "requirements": [
+          "Fluxo de caixa sustentável demonstrado por 30 dias",
+          "ROI de marketing validado",
+          "Crédito e lucro acumulado suficientes"
+        ]
+      },
+      {
+        "date": "2026-07",
+        "name": "HOSTEL_TEATRO_INICIO",
+        "status": "PENDING",
+        "trigger": "Locação/compra do primeiro imóvel para Hostel-Teatro Sustentável em Tera",
+        "requirements": [
+          "Fluxo de caixa consolidado",
+          "Receita previsível mantida",
+          "Capital para entrada de imóvel disponível"
+        ]
+      }
+    ]
+  },
+  "platform_integration": {
+    "google": {
+      "strategy": "Metadados de vídeos para otimizar tráfego pago",
+      "target_roi": 300,
+      "metrics": {
+        "cpc": null,
+        "ctr": null,
+        "roas": null
+      }
+    },
+    "amazon": {
+      "strategy": "KDP Select para maximizar royalties",
+      "target_roi": 300,
+      "kdp_select": true,
+      "metrics": {
+        "books_sold": 0,
+        "royalties": 0,
+        "ad_spend": 0
+      }
+    },
+    "apple": {
+      "strategy": "Produção de conteúdo de elite",
+      "hardware_status": "PENDING",
+      "content_quality": "ELITE",
+      "metrics": {
+        "content_produced": 0,
+        "engagement": 0
+      }
+    }
+  },
+  "kpis": {
+    "financial": {
+      "current_capital": 4000,
+      "monthly_revenue": 0,
+      "roi_by_channel": {
+        "google": 0,
+        "amazon": 0,
+        "apple": 0
+      },
+      "progress_to_12k_target": 0
+    },
+    "operational": {
+      "books_sold_daily": 0,
+      "content_engagement": 0,
+      "ad_conversion_rate": 0
+    }
+  },
+  "next_actions": [
+    {
+      "action": "Avaliar e adquirir infraestrutura Apple",
+      "budget": "£1.200-£1.500",
+      "deadline": "Semana 1-2",
+      "status": "PENDING"
+    },
+    {
+      "action": "Setup Amazon Ads e primeira campanha",
+      "budget": "£150 inicial",
+      "deadline": "Semana 2-3",
+      "status": "PENDING"
+    },
+    {
+      "action": "Monitoramento e otimização de campanhas",
+      "budget": "£350 adicional",
+      "deadline": "Semana 3-4",
+      "status": "PENDING"
+    }
+  ],
+  "audit_trail": [
+    {
+      "timestamp": "2026-01-04T20:34:36.056Z",
+      "action": "SYSTEM_INITIALIZED",
+      "capital_base": 4000,
+      "note": "LOG_V93.0 seed capital strategy activated"
+    }
+  ]
+}
