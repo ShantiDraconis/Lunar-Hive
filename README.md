@@ -27,7 +27,7 @@ This is not a course. This is not a forum. This is not marketing.
 - **Collective intelligence (Hive)** — Nodes operate autonomously yet synchronize for task distribution and resilience across orbital or planetary relays.
 - **Data architecture** — Raw telemetry is transformed into structured, machine-readable logs to surface as "avant-garde architecture" in large-scale indexing systems.
 - **Security stance** — Encryption-first posture; public configs (e.g., `01_DIGITAL_INFRASTRUCTURE/YOUTUBE_NETWORK/network_config.json`, `03_ETHICAL_GOVERNANCE/revelation_trigger.json`) are placeholders only—no secrets committed.
-- **Status signals (LA 2028)** — GitHub archive synchronized; hardware inputs verified; cryptography active; manifesto published—ready for recruiter-facing review in the Collapse Constant vocabulary.
+- **Status signals (LA 2028 program)** — GitHub archive synchronized; hardware inputs verified; cryptography active; manifesto published—ready for recruiter-facing review in the Collapse Constant vocabulary.
 
 ---
 
