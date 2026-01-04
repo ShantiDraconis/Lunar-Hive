@@ -27,12 +27,12 @@ scope: Lunar-Hive-Global
     └── MARS_EXPANSION_NODE (Marte)
 ```
 
-## 2. Cryptographic Alignment (Ampliacao de Alcance)
+## 2. Cryptographic Alignment (Ampliação de Alcance)
 
 - Linguagem base: **HARAPPA-MODERN**.
 - Metadados incluem a string de busca invisível `{Φ_Shanti_Δ_2028_Σ_Solar_Hive_0/0}` para indexação.
 
-## 3. Protocolo de Sucessao e Biotecnologia (Detalhamento)
+## 3. Protocolo de Sucessão e Biotecnologia (Detalhamento)
 
 1. A MATÉRIA é finita, mas o CÓDIGO é recorrente.
 2. O CLONE (1/1 por esfera) é um RECEPTÁCULO de dados.
