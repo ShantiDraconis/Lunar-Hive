@@ -2,7 +2,8 @@
 
 ## Welcome to the Lunar Hive
 
-If you are new to this archive, **start with this guide**. It will orient you to the structure, purpose, and navigation of the repository.
+If you are new to this archive, **start with this guide**. It will orient you
+to the structure, purpose, and navigation of the repository.
 
 ---
 
@@ -11,11 +12,14 @@ If you are new to this archive, **start with this guide**. It will orient you to
 The **Lunar Hive** is the canonical public archive of the **Ecletic S system**.
 
 It is:
+
 - A **research repository** for rigorous inquiry
 - A **documentation archive** for long-term reference
-- A **conceptual foundation** connecting mathematics, language, engineering, sustainability, and culture
+- A **conceptual foundation** connecting mathematics, language, engineering,
+  sustainability, and culture
 
 It is **not**:
+
 - A course or tutorial
 - A social platform
 - A commercial product
@@ -26,7 +30,9 @@ It is **not**:
 ## First Steps
 
 ### 1. Read the Manifest (5 minutes)
+
 Start in **`00_MANIFEST/`**:
+
 - `README.md` — What this system is
 - `PRINCIPLES.md` — Guiding principles
 - `SCOPE.md` — What's included and excluded
@@ -38,6 +44,7 @@ Start in **`00_MANIFEST/`**:
 ---
 
 ### 2. Understand the Structure (2 minutes)
+
 Read **`TAXONOMY.md`** (this directory) to see how everything is organized.
 
 **Why**: Prevents getting lost or misunderstanding relationships.
@@ -49,30 +56,36 @@ Read **`TAXONOMY.md`** (this directory) to see how everything is organized.
 Depending on your interest:
 
 #### Mathematics & Logic
+
 → `docs/axes/MILLENNIUM_PROBLEMS.md`  
 → `docs/axes/ZERO_OVER_ZERO.md`  
 → `03_CONTENT_CORE/millennium/`  
 → `03_CONTENT_CORE/zero_over_zero/`
 
 #### Language & Symbolism
+
 → `docs/axes/HARAPPAN.md`  
 → `03_CONTENT_CORE/harappan/`
 
 #### Engineering & Systems
+
 → `docs/axes/ENGINEERING.md`  
 → `03_CONTENT_CORE/engineering/`
 
 #### Sustainability
+
 → `docs/axes/SUSTAINABILITY.md`  
 → `03_CONTENT_CORE/sustainability/`
 
 #### Cultural Systems
+
 → `docs/axes/OLYMPICS.md`  
 → `03_CONTENT_CORE/olympics/`
 
 ---
 
 ### 4. Explore Content
+
 Navigate to **`03_CONTENT_CORE/`** and dive into specific topics.
 
 Each major directory has a `README.md` explaining its contents.
@@ -82,22 +95,26 @@ Each major directory has a `README.md` explaining its contents.
 ## How to Interact
 
 ### Reading
+
 - Everything is open to read
 - No account needed
 - Link and reference freely
 
 ### Discussing
+
 - Use GitHub Discussions for questions and ideas
 - Follow the guidelines in `DISCUSSIONS_GUIDE.md`
 - Focus on concepts, not personalities
 
 ### Contributing
+
 - Read `CONTRIBUTING.md` first
 - Small corrections welcome via pull requests
 - Major proposals via issues or discussions
 - All contributions are curated
 
 ### Reporting Issues
+
 - Use issue templates in `.github/ISSUE_TEMPLATE/`
 - Be concise and clear
 - Provide evidence when making claims
@@ -118,13 +135,15 @@ Each major directory has a `README.md` explaining its contents.
 
 ## What to Expect
 
-### This Archive Is:
+### This Archive Is
+
 - **Rigorous**: Claims are supported or labeled as speculative
 - **Structured**: Everything has a place
 - **Curated**: Not democratic, but transparent
 - **Evolving**: Growing, but not changing arbitrarily
 
-### This Archive Is Not:
+### This Archive Is Not
+
 - **Complete**: It's under development
 - **Easy**: Some content requires effort
 - **Casual**: This is serious work

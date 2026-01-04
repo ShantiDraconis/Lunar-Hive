@@ -4,23 +4,27 @@
 
 The Lunar Hive operates under **curated governance**.
 
-This is not a democratic project. This is an **archival and research foundation** with clear stewardship.
+This is not a democratic project. This is an **archival and research
+foundation** with clear stewardship.
 
 ## Roles
 
 ### Maintainers
+
 - Define scope and direction
 - Accept or reject contributions
 - Enforce quality standards
 - Manage repository structure
 
 ### Contributors
+
 - Submit proposals through issues
 - Participate in discussions
 - Provide corrections or clarifications
 - Follow contribution guidelines
 
 ### Observers
+
 - Read and reference materials
 - Link to content
 - Discuss ideas externally
@@ -30,6 +34,7 @@ This is not a democratic project. This is an **archival and research foundation*
 ### What Gets Included
 
 Content is accepted based on:
+
 - **Rigor**: Clear logic, evidence, or mathematical foundation
 - **Relevance**: Alignment with documented scope
 - **Clarity**: Accessible to serious readers
@@ -38,6 +43,7 @@ Content is accepted based on:
 ### What Gets Rejected
 
 Content is rejected if it:
+
 - Lacks evidence or clear reasoning
 - Falls outside defined scope
 - Contains promotional material
@@ -47,6 +53,7 @@ Content is rejected if it:
 ## Transparency
 
 All decisions are made publicly in:
+
 - Issue discussions
 - Pull request reviews
 - Commit messages
@@ -54,10 +61,12 @@ All decisions are made publicly in:
 
 ## Evolution
 
-This governance model may evolve as the project matures. Changes will be documented and announced.
+This governance model may evolve as the project matures. Changes will be
+documented and announced.
 
 ## Authority
 
-Final authority rests with the founding maintainers. This is explicit and intentional.
+Final authority rests with the founding maintainers. This is explicit and
+intentional.
 
 The goal is **quality and coherence**, not consensus.
