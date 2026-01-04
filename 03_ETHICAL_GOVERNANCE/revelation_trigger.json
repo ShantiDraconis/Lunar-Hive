@@ -1,0 +1,10 @@
+{
+  "proficiency_threshold": 0.99,
+  "domains": ["Arquitetura de Dados", "Governança Ética", "Ressonância Lunar"],
+  "signals": [
+    "audit_passed",
+    "mentor_clearance",
+    "latency_below_200ms"
+  ],
+  "revelation_action": "unlock_origin_briefing"
+}
