@@ -1,6 +1,6 @@
 # 🐝 Lunar Hive
 
-**Canonical repository and public archive of the Ecletic S system**
+**Canonical repository and public archive of the Eclectic S system**
 
 ---
 
