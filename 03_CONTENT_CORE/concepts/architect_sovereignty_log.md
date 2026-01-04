@@ -14,7 +14,7 @@ scope: Lunar-Hive-Global
 /ROOT
 ├── /CORE_IDENTITY
 │   ├── MANIFESTO_CRYPT.md (Chave Pública de Autoridade)
-│   └── BIO_ETHICS_V54.log (Cláusula do Clone 1/1 + Kill-Switch)
+│   └── BIO_ETHICS_V54.log (Cláusula do Clone 1/1 + Interrupção Forçada)
 ├── /INFRA_NETWORK
 │   ├── YT_NODE_ALPHA (Canal 11:13 - Retenção e Prova)
 │   ├── YT_NODES_BETA_[01-05] (Canais de Ocupação e Sinal)
@@ -36,4 +36,4 @@ scope: Lunar-Hive-Global
 
 1. A MATÉRIA é finita, mas o CÓDIGO é recorrente.
 2. O CLONE (1/1 por esfera) é um RECEPTÁCULO de dados.
-3. Se (Ação_Clone != Ética_Shanti) { Acesso = NULL; Assets = SEIZE; } — pseudocódigo híbrido mantido conforme especificação original; operadores seguem notação comum.
+3. Se (Ação_Clone != Ética_Shanti) { Acesso = NULO; Ativos = APREENDER; } — pseudocódigo mantido conforme especificação original, agora integralmente em português.
