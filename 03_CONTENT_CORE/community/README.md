@@ -109,7 +109,7 @@ Same as rest of archive:
 ## Current Status
 
 ### Accepted Contributions
-(None yet — directory structure just established)
+- `accepted_contributions/authority_cluster_channel_manifestos.md` — Cluster de autoridade digital (registro: 2026-01-04)
 
 ### Pending Review
 (Check issues labeled "proposal" or "community contribution")
