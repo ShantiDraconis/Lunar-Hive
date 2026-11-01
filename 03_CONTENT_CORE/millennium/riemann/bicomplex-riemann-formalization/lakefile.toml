@@ -1,6 +1,0 @@
-name = "bicomplex-riemann-formalization"
-version = "0.1.0"
-defaultTargets = ["Formal"]
-
-[[lean_lib]]
-name = "Formal"
