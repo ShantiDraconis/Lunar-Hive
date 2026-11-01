@@ -79,7 +79,7 @@ Each major axis has its own directory:
 
 #### `/03_CONTENT_CORE/millennium/`
 Millennium Prize Problems from an observational perspective:
-- Riemann Hypothesis
+- Riemann Hypothesis — bridge index and Lean package at [`riemann/`](../03_CONTENT_CORE/millennium/riemann/README.md)
 - P vs NP
 - Navier-Stokes
 - (others as developed)
