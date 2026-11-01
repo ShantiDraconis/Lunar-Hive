@@ -34,7 +34,7 @@ Our interest: **What do unsolved problems tell us about the nature of systems?**
 - Boundary behavior of zeta function
 - What does "almost everywhere true" mean at limits?
 
-**Content**: See [`/03_CONTENT_CORE/millennium/riemann/`](../../03_CONTENT_CORE/millennium/riemann/README.md) for the formalization archive and bridge index. The Lean workflow checks only encoded claims; it does not prove RH.
+**Content**: See `/03_CONTENT_CORE/millennium/riemann/`
 
 ---
 
