@@ -13,14 +13,11 @@ This directory contains observational analysis and documentation related to the 
 ### `/riemann/`
 Riemann Hypothesis and its connections to prime number theory, complex analysis, and limit behavior.
 
-**Status**: Formalization package and bridge index published  
-**Key files**:
-- [`riemann/README.md`](riemann/README.md) — Scope, bridge map, and verification status
-- [`riemann/PUBLIC_BRIDGE_INDEX.md`](riemann/PUBLIC_BRIDGE_INDEX.md) — Source-to-target map
-- [`riemann/bicomplex-riemann-formalization/`](riemann/bicomplex-riemann-formalization/) — 24 individual source, registry, and Lean files
-- [`riemann/bicomplex-riemann-formalization/FORMAL_PROOF_STATUS.md`](riemann/bicomplex-riemann-formalization/FORMAL_PROOF_STATUS.md) — Per-claim status
-
-The package contains algebraic coordinate lemmas and explicit open obligations. It does not prove RH or validate the empirical application interpretations.
+**Status**: Initial framework  
+**Key files** (planned):
+- `overview.md` — High-level explanation
+- `formal_notes.md` — Mathematical details
+- `references.md` — Key sources
 
 ### `/p_vs_np/`
 P vs NP problem: computational complexity, verification vs. discovery, algorithmic limits.
