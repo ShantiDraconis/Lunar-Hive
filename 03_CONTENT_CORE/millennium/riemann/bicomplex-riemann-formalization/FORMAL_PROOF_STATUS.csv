@@ -1,0 +1,21 @@
+theorem,status,assumptions,mathematical_scope
+BicomplexRiemann.ProofMap.bicomplex_zero_divisor_identity,WRITTEN_UNCHECKED,None,Identity in the explicit four-coordinate bicomplex algebra
+BicomplexRiemann.ProofMap.second_universe_shift_is_seven_tenths,WRITTEN_UNCHECKED,sigma=5 tenths and b=-2 tenths,Exact integer coordinate arithmetic
+BicomplexRiemann.ProofMap.paired_component_coordinates_are_three_and_seven,WRITTEN_UNCHECKED,sigma=5 tenths and b=-2 tenths,Exact idempotent coordinate arithmetic
+BicomplexRiemann.ProofMap.all_registered_applications_have_the_assigned_pair,WRITTEN_UNCHECKED,Registry defines each application with the same coordinate inputs,Registry arithmetic only; no empirical outcome
+BicomplexRiemann.ProofMap.symmetry_assumptions_give_four_point_orbit,WRITTEN_UNCHECKED,Set is closed under reflection and conjugation,Abstract conditional set theorem; not instantiated for zeta
+BicomplexRiemann.ProofMap.two_half_components_force_center,WRITTEN_UNCHECKED,Both scaled component coordinates equal 5,Coordinate implication only; no zeta zeros or RH premise
+BicomplexRiemann.ProofMap.every_natural_has_a_larger_natural,WRITTEN_UNCHECKED,None,Standard natural-number successor property
+BicomplexRiemann.ProofMap.adjoined_after_all_is_not_a_natural,WRITTEN_UNCHECKED,Adjoined index is a separate inductive constructor,Type distinction only; no analytic consequence
+BicomplexRiemann.ComponentLift.pair_zero_iff_components_zero,WRITTEN_UNCHECKED,None,Generic pair value is zero iff both components are zero; no zeta instantiation
+BicomplexRiemann.ComponentLift.one_zero_component_not_pair_zero,WRITTEN_UNCHECKED,One component equals zero and the other is nonzero,Proves a one-component zero is not a full pair zero
+BicomplexRiemann.ComponentLift.both_coordinates_half_force_center,WRITTEN_UNCHECKED,Both shifted real coordinates equal 5 tenths,Coordinate arithmetic only
+BicomplexRiemann.CenteredSymmetry.reflection_involutive,WRITTEN_UNCHECKED,None,Centered reflection is an involution
+BicomplexRiemann.CenteredSymmetry.reflection_preserves_off_line,WRITTEN_UNCHECKED,Point is off the centered line,Reflection preserves nonzero displacement
+BicomplexRiemann.CenteredSymmetry.paired_tenths_exchange,WRITTEN_UNCHECKED,None,Reflection exchanges the two tenths coordinates
+BicomplexRiemann.BridgeContracts.source_zero_off_line_implies_target_zero_off_axis,WRITTEN_UNCHECKED,An ExactBridge instance,Conditional transport under explicit correspondence fields
+BicomplexRiemann.BridgeContracts.target_zero_off_axis_implies_source_zero_off_line,WRITTEN_UNCHECKED,An ExactBridge instance,Conditional transport under explicit correspondence fields
+BicomplexRiemann.BridgeContracts.target_axis_theorem_transfers,WRITTEN_UNCHECKED,An ExactBridge instance and target zero-axis theorem,Conditional transfer; no instance for zeta is supplied
+BicomplexRiemann.ExplicitFormulaScaling.off_line_shift_is_two_tenths,WRITTEN_UNCHECKED,None,Exact exponent bookkeeping in tenths; no real-power analysis
+BicomplexRiemann.ExplicitFormulaScaling.off_line_numerator_factor,WRITTEN_UNCHECKED,Abstract ExponentScale with growth-addition law,Conditional multiplicative scaling identity; no explicit formula instance
+BicomplexRiemann.ExplicitFormulaScaling.tenths_exponent_difference,WRITTEN_UNCHECKED,None,Integer exponent difference 7-5=2
