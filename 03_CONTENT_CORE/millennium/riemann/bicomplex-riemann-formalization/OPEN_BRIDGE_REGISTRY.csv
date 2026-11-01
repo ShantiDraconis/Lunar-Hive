@@ -1,0 +1,15 @@
+bridge,status,artifact,proved_content,open_obligation
+bicomplex_zeta_extension,OPEN_ANALYTIC,Formal/BicomplexLift.lean,Finite coordinate identities,Define analytic extension and prove compatibility with classical zeta
+critical_line_consequence,CONDITIONAL,Formal/AnalyticBridgeContracts.lean,Two component coordinates both equal to one half imply center equals one half and shift is zero,Supply actual zeta-zero premises and RH premise
+zero_symmetry_orbit,CONDITIONAL,Formal/AnalyticBridgeContracts.lean,Reflection and conjugation closure imply a four point orbit,Prove closure for the exact analytic zero set
+hadamard_product,OPEN_ANALYTIC,ANALYTIC_BRIDGES.md,None,Specify entire function canonical factors multiplicities and convergence
+mollification,OPEN_ANALYTIC,ANALYTIC_BRIDGES.md,None,Define mollifier and prove quantitative estimates with required uniformity
+explicit_formula_primes,OPEN_ANALYTIC,ANALYTIC_BRIDGES.md,None,Derive explicit formula with error terms and connect zero data to prime-counting
+hilbert_polya_berry_keating,OPEN_SPECTRAL,ANALYTIC_BRIDGES.md,None,Construct operator prove domain and self-adjointness facts and identify spectrum
+conditional_rh_consequences,CONDITIONAL,ANALYTIC_BRIDGES.md,None,State hypotheses and prove each consequence without reversing implications
+after_infinity_index,MODEL_ONLY,Formal/AfterInfinity.lean,Nat has no last element and an adjoined index is not Nat,Specify a new structure and prove any claimed analytic consequences
+applications_7_to_15,MODEL_ONLY,Formal/ApplicationBridges.lean,Registry entries share the defined tenths pair,Derive and validate domain-specific dynamics independently
+componentwise_zero_rule,SOURCE_LEVEL_PROOF,Formal/ComponentLift.lean,Pair is zero iff both component values are zero; one zero component alone is not the pair zero,Instantiate an analytic lift and prove its compatibility with classical zeta
+centered_reflection_arithmetic,SOURCE_LEVEL_PROOF,Formal/CenteredSymmetry.lean,Reflection negates displacement and exchanges the exact 0.7/0.3 tenths coordinates,Prove the functional-equation symmetries for the exact analytic zero set
+exact_bridge_transfer_contract,CONDITIONAL_SCHEMA,Formal/BridgeContracts.lean,Target zero-axis theorem transfers under zero and axis equivalences,Construct a non-circular instance for xi/zeta or a justified spectral model
+explicit_formula_growth_scaling,CONDITIONAL_SCHEMA,Formal/ExplicitFormulaScaling.lean,0.7 versus 0.5 has a two-tenths exponent shift; abstract law gives multiplicative numerator factor,Formalize x^rho/rho conjugate-pair oscillation complex modulus and global RH error equivalence
