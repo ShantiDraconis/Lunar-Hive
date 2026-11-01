@@ -1,0 +1,12 @@
+bridge,status,established_route,formal_artifact,remaining_obligation
+dirichlet_series_continuation,OPEN_FORMALIZATION,Initial Dirichlet series then meromorphic continuation,CLASSICAL_RH_BRIDGES.md,Define zeta in Lean and prove convergence continuation and pole facts
+euler_product_zero_free_re_gt_one,OPEN_FORMALIZATION,Euler product implies nonvanishing for Re(s)>1,CLASSICAL_RH_BRIDGES.md,Formalize product convergence and nonvanishing; do not extend beyond its domain
+functional_equation_trivial_zeros,OPEN_FORMALIZATION,Functional equation yields reflected zeros and negative even trivial zeros,CLASSICAL_RH_BRIDGES.md,Formalize gamma factors continuation and functional equation
+completed_xi_equivalence,OPEN_FORMALIZATION,Completed xi is entire symmetric and RH is its zero-line property,CLASSICAL_RH_BRIDGES.md,Define xi and prove entirety symmetry and exact RH equivalence
+critical_strip_classification,OPEN_FORMALIZATION,Nontrivial zeros occupy the critical strip,CLASSICAL_RH_BRIDGES.md,Derive zero-free regions and classify trivial zeros
+riemann_von_mangoldt_count,OPEN_FORMALIZATION,Argument principle counts zeros up to height T,CLASSICAL_RH_BRIDGES.md,Prove count with explicit error and connect to certified zeros
+nyman_beurling,OPEN_FORMALIZATION,RH equivalent to a specified L2 density criterion,CLASSICAL_RH_BRIDGES.md,Fix criterion and formalize both directions in a Hilbert space
+li_criterion,OPEN_FORMALIZATION,RH equivalent to nonnegativity of every Li coefficient,CLASSICAL_RH_BRIDGES.md,Define coefficients and prove the all-natural-indices equivalence
+de_bruijn_newman,OPEN_FORMALIZATION,RH iff Lambda<=0; known Lambda>=0 gives RH iff Lambda=0,CLASSICAL_RH_BRIDGES.md,Define heat flow and constant and prove equivalence plus lower bound
+riemann_siegel_turing,OPEN_FORMALIZATION,Validated finite zero counts can exclude missed zeros in bounded ranges,CLASSICAL_RH_BRIDGES.md,Provide rigorous interval bounds and global count comparison
+prime_error_equivalence,OPEN_FORMALIZATION,RH equivalent to specified prime-counting error bounds,CLASSICAL_RH_BRIDGES.md,Choose exact target and prove both quantified implications
